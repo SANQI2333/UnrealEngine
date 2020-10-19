@@ -4,45 +4,48 @@
 
 打开 /Content/StarterContent/Maps/StarterMap
 
-了解：Actor, Pawn, Character, Static Mesh.
-
-了解：ThirdPerson, FirstPerson, 
-
-了解：Directional Light（定向光源）, Point Light（点光）, Spot Light（聚光）, Sky Light（天光）
-
-了解：静态光照，Static Lighting Level Scale，Num Indirect Lighting Bounces
-
-了解：Lightmass Importance Volume, Lightmass Portal
-
-了解：Post Processing Volume
+* 了解：Actor, Pawn, Character, Static Mesh.
+* 了解：ThirdPerson, FirstPerson, 
+* 了解：Directional Light（定向光源）, Point Light（点光）, Spot Light（聚光）, Sky Light（天光）
+* 了解：静态光照，Static Lighting Level Scale，Num Indirect Lighting Bounces
+* 了解：Lightmass Importance Volume
+* 了解：Post Processing Volume
 
 https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 
 
 ## 2.	蓝图的Hello World
 
-了解：BoxTrigger, Events
+* 了解：BoxTrigger, Events
+* 了解：Print
+* 了解：数据类型string
+* 了解：关卡蓝图
+* 了解：Actor蓝图
 
-了解：数据类型string
-
-了解：关卡蓝图
-
-作业：灭火人
+<br>
 
 --------------------------
+### 作业：灭火人
+- 使用StarterContent
+- 创建一块地
+- 创建一些触碰就会熄灭的火球
+--------------------------
+<br>
 
 ## 3.	使用蓝图控制
 
 创建一个新“空工程”，来做一个滚动的球
 
-* 创建一个灯光控制 (Actor)
+* ### 创建一个灯光控制 (Actor)
   * 回忆：Box Collision
   * 创建一个地板按钮
   * 控制灯光开关
     * 了解：注释
+    * 了解：branch(if)
+    * 了解：Boolean
   * 控制灯光颜色
 
-* 创建一个玩家可以控制的滚动的球 (Pawn)
+* ### 创建一个玩家可以控制的滚动的球 (Pawn)
   * 创建一个Pawn蓝图, 并在蓝图里创建一个有物理系统的球体(Sphere)
     * 了解：Material 材质
     * 了解：Simulate Physics 模拟物理
@@ -62,61 +65,55 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
     * Ctrl / Shift / Command / Alt
     * A~Z
     * 了解：Set Velocity (速度)
+    * 了解：Launch (发射)
  
-* 创建一个秒表
+* ### 创建一个秒表
   * Text Render
   * Event BeginPlay (开始时只运行一次)
   * Event Tick (运行过程中不断执行)
   * 变量 (Float, Integer, String, Boolean, Vector)
   * Delay
 
-* Spawn
-  * Random 随机
+* ### Random 随机
+  * 变动IoTLight的位置
+  * 为创建随机城市做准备
+
+<br>
+
+--------------------------
+### 作业：球球大冒险
+- 使用StarterContent
+- 创建一些比较难通过的地形
+- 创建一个可以鼠标控制的球(Pawn)
+- 创建可以触发变色的灯光(Actor)
+- 创建一个计时器
+--------------------------
+<br>
 
 
-### 5.	发射小人
-https://docs.unrealengine.com/zh-CN/Engine/Blueprints/QuickStart/index.html
-了解：branch(if)
-了解：逻辑表达式>, <, >=, <=, ==, != 
-了解：数据类型boolean
+## 4.	使用Random创建一座城
 
-### 6.	使用Packs丰富场景
+--------------------------
+
+## 5.	使用Packs丰富场景
 了解：目录结构
 
+--------------------------
 
+## Landscape and Foliage地形与植物
 
+## Post Processing 后期处理
 
-7.	控制一盏灯
+## Cinematic 过场动画
 
+## Paper2D
 
+## UI
 
+## 粒子系统
 
-8.	Interactive交互
-了解：Keyboard, Mouse, Trigger, Collision
+## Materials
 
+## Animation
 
-
-
-9.	Landscape and Foliage地形与植物
-
-
-
-
-10.	Post Processing 后期处理
-
-11.	Cinematic 过场动画
-
-
-
-
-12.	Paper2D
-
-13.	UI
-
-14.	Materials
-
-15.	粒子系统
-
-16.	Animation
-
-17.	Audio
+## Audio
