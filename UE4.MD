@@ -46,31 +46,33 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
   * 控制灯光颜色
 
 * ### 创建一个玩家可以控制的滚动的球 (Pawn)
-  * 创建一个Pawn蓝图, 并在蓝图里创建一个有物理系统的球体(Sphere)
-    * 了解：Material 材质
-    * 了解：Simulate Physics 模拟物理
-    * 了解：Gravity 重力
-    * 了解：Linear Damping 线性阻尼 / Angular Damping 角阻尼
-    * 了解：MassInKg 质量(千克)
+  * 创建一个Pawn蓝图, 并在蓝图里添加一个有物理系统的球体(Sphere)
+    * 添加组件 球体
+    * 更换 Material 材质
+    * 勾选 Simulate Physics 模拟物理
+    * 勾选 Gravity 重力
+    * 设置 Linear Damping 线性阻尼 / Angular Damping 角阻尼
+    * 设置 MassInKg 质量(千克)
 
     ![输入图片说明](https://images.gitee.com/uploads/images/2020/1020/235839_bd1835c0_792465.png "微信图片_20201020235829.png")
 
   * 创建一个GameMode, "RollingGameMode".
-    * 了解：World Settings -> Game Mode
+    * 在 World Settings -> Game Mode 添加一个新的 Game Mode
     
     ![创建一个新的GameMode](https://images.gitee.com/uploads/images/2020/1021/000005_5b57fd2f_792465.png "微信图片_20201020235939.png")
 
   * Mouse Input
-    * Mouse X
-    * Mouse Y
-    * Left Button / Right Button / Wheel
-    * 了解：Make Vector (3D向量)
-    * 了解：Add Torque (扭矩)
+    * 添加事件 Mouse X - 鼠标的左右移动
+    * 添加事件 Mouse Y - 鼠标的前后移动
+    * 了解：Left Button 鼠标左键 / Right Button 鼠标右键 / Wheel 鼠标滚筒
+    * 了解：Make Vector 创建向量
+    * 了解：Add Torque 添加扭矩
+
   * Keyboard Input 
-    * Space
-    * Ctrl / Shift / Command / Alt
-    * A~Z
-    * 了解：Set Velocity (速度)
+    * 添加事件 Space
+    * 了解：Ctrl / Shift / Command / Alt
+    * 了解：A~Z
+    * 了解：Set Velocity (设置物理线性速度)
     * 了解：Launch (发射)
 
    ![输入图片说明](https://images.gitee.com/uploads/images/2020/1021/000220_079b2eb5_792465.png "微信图片_20201021000207.png")
