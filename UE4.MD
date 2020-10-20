@@ -37,13 +37,22 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 创建一个新“空工程”，来做一个滚动的球
 
 * ### 创建一个灯光控制 (Actor)
-  * 回忆：Box Collision
-  * 创建一个地板按钮
+  * 创建一个立方体做为“地板按钮”
+  * 创建一个 Box Collision
+  * 创建一个光源 (Spot Light 或者 Point Light)
+
+  ![输入图片说明](https://images.gitee.com/uploads/images/2020/1021/001410_d22693e1_792465.png "微信图片_20201021001356.png")
+
   * 控制灯光开关
     * 了解：注释
     * 了解：branch(if)
     * 了解：Boolean
+
+  ![输入图片说明](https://images.gitee.com/uploads/images/2020/1021/001615_ed42e360_792465.png "微信图片_20201021001547.png")
+
   * 控制灯光颜色
+
+  ![输入图片说明](https://images.gitee.com/uploads/images/2020/1021/001741_4227ea58_792465.png "coolo.png")
 
 * ### 创建一个玩家可以控制的滚动的球 (Pawn)
   * 创建一个Pawn蓝图, 并在蓝图里添加一个有物理系统的球体(Sphere)
