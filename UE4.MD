@@ -55,9 +55,11 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
   ![输入图片说明](https://images.gitee.com/uploads/images/2020/1021/001741_4227ea58_792465.png "coolo.png")
 
 * ### 创建一个玩家可以控制的滚动的球 (Pawn)
-  * 创建一个Pawn蓝图, 并在蓝图里添加一个有物理系统的球体(Sphere)
+  * 创建一个Pawn蓝图, 取名为"BPBall", 并在蓝图里添加一个有物理系统的球体(Sphere)
     * 添加组件 球体
     * 更换 Material 材质
+    * 添加 Camera 摄像机 与 Spring Arm 弹簧臂组件, 用来跟随玩家角色
+    * 弹簧臂组件取消继承 Pitch, Yaw, Roll
     * 勾选 Simulate Physics 模拟物理
     * 勾选 Gravity 重力
     * 设置 Linear Damping 线性阻尼 / Angular Damping 角阻尼
@@ -70,6 +72,7 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
     
     ![创建一个新的GameMode](https://images.gitee.com/uploads/images/2020/1021/000005_5b57fd2f_792465.png "微信图片_20201020235939.png")
 
+  * 将Default Pawn选择成"BPBall"
   * Mouse Input
     * 添加事件 Mouse X - 鼠标的左右移动
     * 添加事件 Mouse Y - 鼠标的前后移动
