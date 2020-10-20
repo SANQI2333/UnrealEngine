@@ -52,6 +52,9 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
     * 了解：Gravity 重力
     * 了解：Linear Damping 线性阻尼 / Angular Damping 角阻尼
     * 了解：MassInKg 质量(千克)
+
+    ![输入图片说明](https://images.gitee.com/uploads/images/2020/1020/235839_bd1835c0_792465.png "微信图片_20201020235829.png")
+
   * 创建一个GameMode, "RollingGameMode".
     * 了解：World Settings -> Game Mode
   * Mouse Input
