@@ -57,6 +57,9 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 
   * 创建一个GameMode, "RollingGameMode".
     * 了解：World Settings -> Game Mode
+    
+    ![创建一个新的GameMode](https://images.gitee.com/uploads/images/2020/1021/000005_5b57fd2f_792465.png "微信图片_20201020235939.png")
+
   * Mouse Input
     * Mouse X
     * Mouse Y
@@ -69,6 +72,8 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
     * A~Z
     * 了解：Set Velocity (速度)
     * 了解：Launch (发射)
+
+   ![输入图片说明](https://images.gitee.com/uploads/images/2020/1021/000220_079b2eb5_792465.png "微信图片_20201021000207.png")
  
 * ### 创建一个秒表
   * Text Render
@@ -76,6 +81,8 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
   * Event Tick (运行过程中不断执行)
   * 变量 (Float, Integer, String, Boolean, Vector)
   * Delay
+
+  ![输入图片说明](https://images.gitee.com/uploads/images/2020/1021/000401_24d21dd6_792465.png "微信图片_20201021000345.png")
 
 * ### Random 随机
   * 变动IoTLight的位置
