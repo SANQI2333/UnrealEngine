@@ -140,7 +140,6 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
   * 为创建随机城市做准备
 
 <br>
-
 --------------------------
 ### 作业：球球大冒险
 - 使用StarterContent
@@ -151,17 +150,12 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 --------------------------
 <br>
 
+## 4. 使用Unreal Engine Market 的内容丰富你的场景
+* 目录结构
 
-## 4.	使用Random创建一座城
+## 5. Landscape and Foliage 地形与植物
 
---------------------------
-
-## 5.	使用Packs丰富场景
-了解：目录结构
-
---------------------------
-
-## Landscape and Foliage地形与植物
+## 6. 使用Random创建一座城
 
 ## Post Processing 后期处理
 
