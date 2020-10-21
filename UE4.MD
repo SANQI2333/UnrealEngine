@@ -53,9 +53,11 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
     * 为 "Box" 添加事件
         * 组件开始重叠时
         * 组件结束重叠时
-    * 添加 "Print"
+    * 添加 "Print" 函数
 
 * ### 让火变得更大
+    * 为粒子系统Fire添加Box Collision
+    * Set Scale 设置缩放
 
 <br>
 
