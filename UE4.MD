@@ -11,25 +11,51 @@
 
 ## 1.	关卡设计师入门
 
+* 新建一个“游戏”项目
+* 选择模板“第三人称游戏”
+    * Third Person 第三人称
+    * First Person 第一人称
+* 项目设置选择
+    * 蓝图
+    * 桌面/主机
+    * 最高质量
+    * 含初学者内容包
+    * 已禁用光线追踪
+
 打开 /Content/StarterContent/Maps/StarterMap
 
-* 了解：Actor, Pawn, Static Mesh.
-* 了解：ThirdPerson, FirstPerson, 
-* 了解：Directional Light（定向光源）, Point Light（点光）, Spot Light（聚光）, Sky Light（天光）
-* 了解：静态光照，Static Lighting Level Scale，Num Indirect Lighting Bounces
-* 了解：Lightmass Importance Volume
-* 了解：Post Processing Volume
+* Actor
+* Pawn
+* Static Mesh 静态网格体.
+* Player Start 玩家出生点
+* 光源
+    * Directional Light（定向光源）
+    * Point Light（点光）
+    * Spot Light（聚光）
+    * Sky Light（天光）
+* 光照
+    * 静态光照
+    * Static Lighting Level Scale 静态光照等级范围
+    * Num Indirect Lighting Bounces 间接光照反射数
 
 https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 
-
 ## 2.	蓝图的Hello World
 
-* 了解：BoxTrigger, Events
-* 了解：Print
-* 了解：数据类型string
-* 了解：关卡蓝图
-* 了解：Actor蓝图
+* ### Hello World 蓝图
+    * 在场景中创建一个“空Actor”
+    * 点击 “蓝图/添加脚本”
+    
+       ![输入图片说明](https://images.gitee.com/uploads/images/2020/1021/122701_fdec4f4c_792465.png "1.png")
+    
+    * 命名为 "BPHelloWorld"
+    * 添加组件 "Box Collision"
+    * 为 "Box" 添加事件
+        * 组件开始重叠时
+        * 组件结束重叠时
+    * 添加 "Print"
+
+* ### 让火变得更大
 
 <br>
 
