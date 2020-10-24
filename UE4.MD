@@ -165,12 +165,13 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 * Foliage
     * 添加树木 草 石头
 
-## 为你的球球添加各种技能
+## 为球球添加各种技能
 * 超级跳
 * 超级冲刺
 * 变色
 * 放大缩小
-* 瞬移
+* 瞬移门
+* 火焰
 
 ## 小心，你闯入了禁入森林
 * Post Processing Volume
