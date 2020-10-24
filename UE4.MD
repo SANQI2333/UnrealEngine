@@ -180,7 +180,7 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 * Audio Volume
 
 ## 开场动画 Cineamtic
-* Level Sequence.
+* Level Sequence
 * Master Sequence
 
 ## 使用Volume体积
@@ -207,6 +207,7 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 ## Materials 材质
 
 ## Animation 动画
+* 纸上2D游戏
 * 骨架
 * 骨骼模型（Skeletal Mesh）
 * 动画序列（Animation Sequence）
