@@ -179,7 +179,9 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 * Post Processing Volume
 * Audio Volume
 
-## Cinematic 过场动画
+## 开场动画 Cineamtic
+* Level Sequence.
+* Master Sequence
 
 ## 使用Volume体积
 * Trigger Volume
