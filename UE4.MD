@@ -69,7 +69,14 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 --------------------------
 <br>
 
-## 3.	使用蓝图控制
+## 3. Landscape and Foliage 地形与植物
+* Landscape
+    * 创建地形
+    * 编辑地形
+* Foliage
+    * 添加树木 草 石头
+
+## 4.	使用蓝图控制
 
 创建一个新“空工程”，来做一个滚动的球
 
@@ -151,21 +158,14 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 --------------------------
 <br>
 
-## 4. 使用 Unreal Engine Market 的内容丰富你的场景
+## 5. 使用 Unreal Engine Market 的内容丰富你的场景
 * 复制Content里的内容
 * Megascans Abandoned Apartme
 * Low Poly Rainforest
 * Low Poly Tropical
 * Affordable Landscapes 2 (AL1)
 
-## 5. Landscape and Foliage 地形与植物
-* Landscape
-    * 创建地形
-    * 编辑地形
-* Foliage
-    * 添加树木 草 石头
-
-## 为球球添加各种技能
+## 6. 为球球添加各种技能
 * 超级跳
 * 超级冲刺
 * 变色
@@ -173,13 +173,13 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 * 瞬移门
 * 火焰
 
-## 小心，你闯入了禁入森林
+## 7. 小心，你闯入了禁入森林
 * Fog
 * Volumetric Light
 * Post Processing Volume
 * Ambient Sound
 
-## 开场动画 Cineamtic
+## 8. 开场动画 Cineamtic
 * Level Sequence
 * Master Sequence
 
