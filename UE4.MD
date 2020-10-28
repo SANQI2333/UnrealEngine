@@ -177,7 +177,7 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 * Fog
 * Volumetric Light
 * Post Processing Volume
-* Audio Volume
+* Ambient Sound
 
 ## 开场动画 Cineamtic
 * Level Sequence
