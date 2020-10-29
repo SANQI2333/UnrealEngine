@@ -170,18 +170,30 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 * Master Sequence
 
 ## 7. 小心，你闯入了禁入森林
-* Fog
-* Volumetric Light
-* Post Processing Volume
-* Ambient Sound
+* 高度雾 Fog
+* 体积光 Volumetric Light
+* 环境声音 Ambient Sound
+* 声音空间化 Sound 
+* 全局后期处理 Global Post Processing Volume
+* 后期处理体积 Post Processing Volume
 
 ## 8. 为球球添加各种技能
 * 超级跳
+    * Do Once
+    * Do N
 * 超级冲刺
+    * 获取物理线性速度
+    * 设置物理线性速度
 * 变色
+    * FlipFlop
+* 变身
+    * 设置静态网格体
 * 放大缩小
+    * Branch
 * 瞬移门
+    * 设置位置
 * 火焰
+    * Spawn
 
 ## 使用Volume体积
 * Trigger Volume
