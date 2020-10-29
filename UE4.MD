@@ -165,13 +165,9 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 * Low Poly Tropical
 * Affordable Landscapes 2 (AL1)
 
-## 6. 为球球添加各种技能
-* 超级跳
-* 超级冲刺
-* 变色
-* 放大缩小
-* 瞬移门
-* 火焰
+## 6. 开场动画 Cinematic
+* Level Sequence
+* Master Sequence
 
 ## 7. 小心，你闯入了禁入森林
 * Fog
@@ -179,9 +175,13 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 * Post Processing Volume
 * Ambient Sound
 
-## 8. 开场动画 Cineamtic
-* Level Sequence
-* Master Sequence
+## 8. 为球球添加各种技能
+* 超级跳
+* 超级冲刺
+* 变色
+* 放大缩小
+* 瞬移门
+* 火焰
 
 ## 使用Volume体积
 * Trigger Volume
