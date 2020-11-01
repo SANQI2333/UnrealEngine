@@ -203,15 +203,16 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
         * 浮点型 Float
         * 使用最后一帧
         * 循环
-
 * 一个巡逻的球
     * Timeline
         * Vector
-
+* 摆动的阻挡地块
+    * Timeline
+        * Vector
 * 隐形的墙
     * 阻挡体积
-* 
-## 10. 添加一些NPC吧
+
+## 10. UI
 
 ## 11. 优化场景
 
