@@ -203,22 +203,28 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
         * 浮点型 Float
         * 使用最后一帧
         * 循环
+
+* 一个巡逻的球
+    * Timeline
+        * Vector
+
 * 隐形的墙
     * 阻挡体积
-* 剔除距离体积
-    ![输入图片说明](https://docs.unrealengine.com/Images/Engine/Rendering/VisibilityCulling/CullDistanceVolume/ExampleScene_SuggestedPairValues.webp "在这里输入图片标题")
-
+* 
 ## 10. 添加一些NPC吧
 
+## 11. 优化场景
 
+* 剔除距离体积
+    
+    ![输入图片说明](https://docs.unrealengine.com/Images/Engine/Rendering/VisibilityCulling/CullDistanceVolume/ExampleScene_SuggestedPairValues.webp "")
 
+* 优化载入
+    * Level Streaming Volume
 
-## 使用Volume体积
-* Trigger Volume
-* Lightmass Importance Volume
-* Level Streaming Volume
-
-## Timeline
+* 优化光照
+    * Lightmass Importance Volume
+    * LightmassCharacterIndirectDetailVolume1
 
 ## 流程控制
 * Branch
