@@ -212,8 +212,12 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 * 摆动的阻挡地块
     * Timeline
         * Vector
+* 方块矩阵墙
+    * 构造脚本 Construction Script
+    * For Loop
 * 掉入深渊就返回原地
 * 胜利区域
+    * 粒子系统
 
 ## 10. 为游戏添加UI
 * 添加血量和魔法量
@@ -225,7 +229,16 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
     * 返回游戏按钮
     * 退出游戏按钮
 
-## 11. 优化场景
+## 11. 为游戏添加一些难度
+* 添加掉血区域
+    * Event Any Damege
+    * Apply Damege
+    * 跟随的火焰
+* 添加补血物品
+    * Apply Damege
+    * 跟随的治疗光环
+
+## 12. 优化场景
 
 * 剔除距离体积
     
