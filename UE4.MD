@@ -196,7 +196,7 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
     * Spawn
 
 ## 9. 为场景添加特殊物件
-* 隐形的墙
+* 游戏场景边界：隐形的墙
     * 阻挡体积
     * Text Render
 * 一个不停旋转的障碍物
