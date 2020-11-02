@@ -196,7 +196,10 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
     * Spawn
 
 ## 9. 为场景添加特殊物件
-* 一个不停旋转的傻方块
+* 隐形的墙
+    * 阻挡体积
+    * Text Render
+* 一个不停旋转的障碍物
     * 创建旋转体
     * 设置旋转
     * Timeline
@@ -209,10 +212,18 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 * 摆动的阻挡地块
     * Timeline
         * Vector
-* 隐形的墙
-    * 阻挡体积
+* 掉入深渊就返回原地
+* 胜利区域
 
-## 10. UI
+## 10. 为游戏添加UI
+* 添加血量和魔法量
+    * 为 Ball 添加公有变量 HP（血量） 和 MP（魔法值） 
+    * 为 Ball 添加公有变量 MaxHP 和 MaxMP
+* 技能按钮
+* 添加暂停菜单
+    * LOGO
+    * 返回游戏按钮
+    * 退出游戏按钮
 
 ## 11. 优化场景
 
