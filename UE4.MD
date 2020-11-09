@@ -206,9 +206,9 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
         * 浮点型 Float
         * 使用最后一帧
         * 循环
-* 不停摆动的障碍物
+* 不停摆动的方块
     * Timeline
-        * Vector
+        * 向量 Vector
 * 方块矩阵墙
     * 构造脚本 Construction Script
     * For Loop
