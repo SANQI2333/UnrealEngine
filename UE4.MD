@@ -206,9 +206,6 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
         * 浮点型 Float
         * 使用最后一帧
         * 循环
-* 一个巡逻的球
-    * Timeline
-        * Vector
 * 摆动的阻挡地块
     * Timeline
         * Vector
@@ -216,6 +213,9 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
     * 构造脚本 Construction Script
     * For Loop
 * 掉入深渊就返回原地
+* 一个巡逻的球
+    * Timeline
+        * Vector
 * 胜利区域
     * 粒子系统
 
