@@ -199,14 +199,14 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
 * 游戏场景边界：隐形的墙
     * 阻挡体积
     * Text Render
-* 一个不停旋转的障碍物
+* 不停旋转的障碍物
     * 创建旋转体
     * 设置旋转
     * Timeline
         * 浮点型 Float
         * 使用最后一帧
         * 循环
-* 摆动的阻挡地块
+* 不停摆动的障碍物
     * Timeline
         * Vector
 * 方块矩阵墙
