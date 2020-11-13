@@ -213,7 +213,7 @@ https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
     * 构造脚本 Construction Script
     * For Loop
 * 掉入深渊就返回原地
-* 一个巡逻的球
+* 一个按固定路线巡逻的球
     * Spline
     * Timeline
         * Vector
