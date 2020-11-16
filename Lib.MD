@@ -31,3 +31,8 @@ https://pan.baidu.com/s/10JWx3Os4OZmUWBS0L88dog (5099)
 
 https://pan.baidu.com/s/1ZXagSZWpECQjnNi7xsNA8w （ww42)
 
+
+人物音效（不断添加）
+
+https://pan.baidu.com/s/1_jXRreUxbQ32groAml1AWA （3k89）
+
