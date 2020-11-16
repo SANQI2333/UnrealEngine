@@ -25,3 +25,9 @@ https://pan.baidu.com/s/18fzIwxkaJVdYhCrBLayRjA (0y46)
 Lowpoly Style Desert Pack
 
 https://pan.baidu.com/s/10JWx3Os4OZmUWBS0L88dog (5099)
+
+
+人物动画（不断添加）
+
+https://pan.baidu.com/s/1ZXagSZWpECQjnNi7xsNA8w （ww42)
+
