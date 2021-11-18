@@ -62,12 +62,20 @@
     - Megascans
         - temperate Vegetation: Foliage Collection
         - temperate Vegetation: Meadow Flowers
-        - Megascans——Meadow Pack
-        - Landscape Backgrounds
+        - Megascans Meadow Pack 草甸合集
+        - 熔岩之地合集 / 干枯草地合集 / 采石场合集
+        - Megascans Abandoned Apartment 废弃的公寓
+        - Megascans Goddess Temple 神庙
+        - Megascans Urban Alleyway
+        - Megascans Fantasy Fort
+        - Megascans Cyberpunk Environment
+        - Megascans Post-Apocalyptic Street
+        - Megascans Desert Warzone
+        - Megascans Scary Restroom 恐怖卫生间
+        - Megascans Creature Gut 生物内脏
+        - Megascans Creature Skin 生物皮肤
+        - 各类材质
         - Brushify
-        - Megascans Abandoned Apartment
-          山洞蜡烛
-        - Megascans Goddess Temple
         - Lake House
     - 使用Quixel Bridge
 
