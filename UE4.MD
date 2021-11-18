@@ -10,14 +10,13 @@
 - 修改默认打开的地图
 - 使用初学者内容包
 - 目录结构说明
-    - Blueprints
-    - Maps
-    - Particles
-    - Audios
-    - Materials
-    - Meshes
-    - Textures
-
+    - Blueprints 蓝图
+    - Maps 地图
+    - Particles 粒子与特效
+    - Audio 音频
+    - Materials 材质
+    - Meshes 网格体
+    - Textures 纹理
 - 放置各种光源
 - 玩家出生点的几种不同方式
 - 添加第三人称人物
@@ -26,19 +25,46 @@
 - 蓝图里添加一个静态网格体和火焰粒子
 - 添加一个盒体碰撞器 Box Collision 触发火焰熄灭
 
-
 ## 获取资源
 
 - 使用UE商城
     - Epic Games内容
+        - 内容示例
+        - 游戏
+            - 虚幻学习包 游戏
+            - Chaos 破坏演示
+            - 动作RPG
+            - 立体声音频模板
+            - 面部AR示例
+            - 动画初学者内容包
+            - 开放世界内容包
+            - 像素流送
+        - 影视
+            - 摄像机内视效制片测试
+            - 虚拟摄影棚
+            - 虚拟摄像机
+        - 动画
+            - Meerkat演示
+        - 人物建模
+            - MetaHumans
+        - 广告
+            - 虚幻与未来：广告职涯
+            - 汽车配置器
+            - 汽车冬季场景
+        - HMI
+            - 远程控制网页界面
+        - 素材
+            - Soul: Cave
+            - Soul: City
+
+     
+        
     - Megascans
-          草原牧场
         - temperate Vegetation: Foliage Collection
         - temperate Vegetation: Meadow Flowers
         - Megascans——Meadow Pack
         - Landscape Backgrounds
         - Brushify
-          废墟公寓
         - Megascans Abandoned Apartment
           山洞蜡烛
         - Megascans Goddess Temple
