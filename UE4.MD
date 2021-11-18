@@ -1,284 +1,326 @@
-# UE4 课程
+## 开始
+* 安装 Unreal Engine
 
-## 0. 介绍
+## 入门
 
-* 放风筝的小男孩
-* 游戏
-* 建筑
-* 影视
-* 广播
-* UE5
+- 新建第一个游戏项目
+- 基本游览操作
+- 基本变换操作与对齐操作
+- 修改编辑器的语言
+- 修改默认打开的地图
+- 使用初学者内容包
+- 目录结构说明
+    - Blueprints
+    - Maps
+    - Particles
+    - Audios
+    - Materials
+    - Meshes
+    - Textures
 
-## 1.	关卡设计师入门
+- 放置各种光源
+- 玩家出生点的几种不同方式
+- 添加第三人称人物
+- 模拟真实世界的物理
+- 创建第一个Actor蓝图
+- 蓝图里添加一个静态网格体和火焰粒子
+- 添加一个盒体碰撞器 Box Collision 触发火焰熄灭
 
-* 新建一个“游戏”项目
-* 选择模板“第三人称游戏”
-    * Third Person 第三人称
-    * First Person 第一人称
-* 项目设置选择
-    * 蓝图
-    * 桌面/主机
-    * 最高质量
-    * 含初学者内容包
-    * 已禁用光线追踪
 
-打开 /Content/StarterContent/Maps/StarterMap
+## 获取资源
 
-* Actor
-* Pawn
-* Static Mesh 静态网格体.
-* Player Start 玩家出生点
-* 光源
-    * Directional Light（定向光源）
-    * Point Light（点光）
-    * Spot Light（聚光）
-    * Sky Light（天光）
-* 光照
-    * 静态光照
-    * Static Lighting Level Scale 静态光照等级范围
-    * Num Indirect Lighting Bounces 间接光照反射数
+使用UE商城
+Epic Games内容
+Megascans
+草原牧场
+temperate Vegetation: Foliage Collection
+temperate Vegetation: Meadow Flowers
+Megascans——Meadow Pack
+Landscape Backgrounds
+Brushify
+废墟公寓
+Megascans Abandoned Apartment
+山洞蜡烛
+Megascans Goddess Temple
+Lake House
+使用Quixel Bridge
 
-https://docs.unrealengine.com/zh-CN/Engine/QuickStart/index.html
+视觉效果
+高度雾与体积光
+天光
+体积云
+后期处理体积 光照强度
+后期处理体积 调色
 
-## 2.	蓝图的Hello World
+导入模型
+导入模型与调整材质
+初涉材质 - 金属感与粗糙度
+初涉材质 - 材质纹理贴图
+初涉材质 - 自发光
+给静态网格体添加碰撞
 
-* ### Hello World 蓝图
-    * 在场景中创建一个“空Actor”
-    * 点击 “蓝图/添加脚本”
-    
-       ![输入图片说明](https://images.gitee.com/uploads/images/2020/1021/122701_fdec4f4c_792465.png "1.png")
-    
-    * 命名为 "BPHelloWorld"
-    * 添加组件 "Box Collision"
-    * 为 "Box" 添加事件
-        * 组件开始重叠时
-        * 组件结束重叠时
-    * 添加 "Print" 函数
+事件
+Begin 开始事件
+Tick 不断重复执行的事件
+Destroy 死亡时触发的事件
 
-* ### 让火变得更大
-    * 为粒子系统Fire添加Box Collision
-    * Set Scale 设置缩放
+地形
+新建关卡
+准备地形材质
+创造一个地形
+使用各类地形工具
+使用Landmass创建地形
+放上树木 草地 石头
+使用植物工具创造地形
 
-<br>
+贴花
+使用贴花 / Decal
+制作贴花材质
 
---------------------------
-### <i>作业：灭火人</i>
-- 使用StarterContent
-- 创建一块地
-- 创建一些触碰就会熄灭的火球
---------------------------
-<br>
+地图编辑
+地编实例：创造一个戈壁
+地编实例：创造一个森林
+地编实例：创造一个沙滩
 
-## 3. Landscape and Foliage 地形与植物
-* Landscape
-    * 创建地形
-    * 编辑地形
-* Foliage
-    * 添加树木 草 石头
+玩家角色
+创建一个GameMode
+创建第一人称
+创建第三人称
+修改玩家视角的摄像机
+角色移动属性
+更换人物骨骼网格体
+重定向动画
+创建TopDown
+创建一个球
+创建汽车
+创建飞翔
+添加鼠标控制蓝图
+摄像机抖动
 
-## 4.	使用蓝图控制
+丰富场景
+初涉粒子：添加一些漂浮的粒子
+初涉粒子：做一个树叶落下的粒子
+初涉声音：给火加一个音效 
 
-创建一个新“空工程”，来做一个滚动的球
+初涉动画
+创建一个镜头动画
+做动画前将视窗调节至双视图。左透视，右摄影机。
+”S“打关键帧。
+灯光与其他元素动画
+导入音乐
+添加第2个镜头
+导出动画
 
-* ### 创建一个灯光控制 (Actor)
-  * 创建一个立方体做为“地板按钮”
-  * 创建一个 Box Collision
-  * 创建一个光源 (Spot Light 或者 Point Light)
+### 第二阶段
 
-  ![输入图片说明](https://images.gitee.com/uploads/images/2020/1021/001410_d22693e1_792465.png "微信图片_20201021001356.png")
+第一个小球游戏
 
-  * 控制灯光开关
-    * 了解：注释
-    * 了解：branch(if)
-    * 了解：Boolean
+添加规则
+跳 
+浮点变量
+超级跳 / Do Once / 技能冷却时间
+超级冲刺 / Do N
+变身区 / 改变材质与重量
+变大区 / FlipFlop
+变形区 / 改变静态网格体
+瞬移 / 使用组件
+瞬移 / 使用目标点 Target Point
+生成火焰 / Spawn
+设置边界 阻挡体积
+摧毁Z
+掉落深渊返回原地
+开关灯
+胜利区域 / 初涉粒子系统
 
-  ![输入图片说明](https://images.gitee.com/uploads/images/2020/1021/001615_ed42e360_792465.png "微信图片_20201021001547.png")
+添加NPC
+旋转的障碍物 / 时间轴
+摆动的障碍物
 
-  * 控制灯光颜色
+导出
+打包游戏
 
-  ![输入图片说明](https://images.gitee.com/uploads/images/2020/1021/001741_4227ea58_792465.png "coolo.png")
+-----------------
 
-* ### 创建一个玩家可以控制的滚动的球 (Pawn)
-  * 创建一个Pawn蓝图, 取名为"BPBall", 并在蓝图里添加一个有物理系统的球体(Sphere)
-    * 添加组件 球体
-    * 更换 Material 材质
-    * 添加 Camera 摄像机 与 Spring Arm 弹簧臂组件, 用来跟随玩家角色
-    * 弹簧臂组件取消继承 Pitch, Yaw, Roll
-    * 勾选 Simulate Physics 模拟物理
-    * 勾选 Gravity 重力
-    * 设置 Linear Damping 线性阻尼 / Angular Damping 角阻尼
-    * 设置 MassInKg 质量(千克)
+创建一个解密游戏
 
-    ![输入图片说明](https://images.gitee.com/uploads/images/2020/1020/235839_bd1835c0_792465.png "微信图片_20201020235829.png")
+###第二阶段
+涉及角色，伤害，背包，UI，骨骼，物理Actor，贴花，声音处理。初步接触面向对象的编程方法。
 
-  * 创建一个GameMode, "RollingGameMode".
-    * 在 World Settings -> Game Mode 添加一个新的 Game Mode
-    
-    ![创建一个新的GameMode](https://images.gitee.com/uploads/images/2020/1021/000005_5b57fd2f_792465.png "微信图片_20201020235939.png")
+Lucy
+准备新世界
+替换第三人称角色
+显示鼠标光标
+鼠标滚轮控制摄像机
+关卡切换
+绑定动画 / 重定向动画
+添加用户界面HP / UI
+为角色添加HP 并绑定UI
+应用伤害
+持续伤害
+绑定受伤动画
+添加受伤音效
+引火上身
+角色死亡
+治疗物品
+在鼠标位置放置物品
+放置NPC
+使用UI来显示NPC对话内容
+简单的发射子弹
+使用Projectile Movement发射
+瞬移角色（Set Controller rotation)
 
-  * 将Default Pawn选择成"BPBall"
-  * Mouse Input
-    * 添加事件 Mouse X - 鼠标的左右移动
-    * 添加事件 Mouse Y - 鼠标的前后移动
-    * 了解：Left Button 鼠标左键 / Right Button 鼠标右键 / Wheel 鼠标滚筒
-    * 了解：Make Vector 创建向量
-    * 了解：Add Torque 添加扭矩
+角色动画
+动画绑定
 
-  * Keyboard Input 
-    * 添加事件 Space
-    * 了解：Ctrl / Shift / Command / Alt
-    * 了解：A~Z
-    * 了解：Set Velocity (设置物理线性速度)
-    * 了解：Launch (发射)
 
-   ![输入图片说明](https://images.gitee.com/uploads/images/2020/1021/000220_079b2eb5_792465.png "微信图片_20201021000207.png")
- 
-* ### 创建一个秒表
-  * Text Render
-  * Event BeginPlay (开始时只运行一次)
-  * Event Tick (运行过程中不断执行)
-  * 变量 (Float, Integer, String, Boolean, Vector)
-  * Delay
+背包
+理解面向对象
+用“类”创建物品
+背包UI
+鼠标拾取物品
+完成背包
+为物品“类”添加“行为”（只能使用纯类）
+使用物品
 
-  ![输入图片说明](https://images.gitee.com/uploads/images/2020/1021/000401_24d21dd6_792465.png "微信图片_20201021000345.png")
+NPC
+为敌人添加HP
+显示敌人HP
+物品点击事件
 
-* ### Random 随机
-  * 变动IoTLight的位置
-  * 为创建随机城市做准备
+暂停菜单
+暂停菜单UI / 动态添加Post Processing 
+添加暂停按钮
+UI动画
 
-<br>
+Construction Script 
+构造脚本简介
+循环生成静态网格体 / For
+For 循环的嵌套
+随机生成静态网格体
 
---------------------------
-### <i>作业：球球大冒险</i>
-- 使用StarterContent
-- 创建一些比较难通过的地形
-- 创建一个可以鼠标控制的球(Pawn)
-- 创建可以触发变色的灯光(Actor)
-- 创建一个计时器
---------------------------
-<br>
+导入模型
+导入模型 / FBX文件
+修改模型的碰撞
+导入C4D模型
+导入骨骼网格体
 
-## 5. 使用 Unreal Engine Market 的内容丰富你的场景
-* 复制Content里的内容
-* Megascans Abandoned Apartme
-* Low Poly Rainforest
-* Low Poly Tropical
-* Affordable Landscapes 2 (AL1)
+物理Actor
+添加物理推进器 Thurster
+添加径向力 Radial Force 
+添加约束力 Constraint
 
-## 6. 开场动画 Cinematic
-* Level Sequence
-* Master Sequence
+骨骼物理
+局部受伤
+让击中的骨骼受伤
 
-## 7. 小心，你闯入了禁入森林
-* 高度雾 Fog
-* 体积光 Volumetric Light
-* 环境声音 Ambient Sound
-* 声音空间化 Sound 
-* 全局后期处理 Global Post Processing Volume
-* 后期处理体积 Post Processing Volume
+声音
+导入WAV或MP3音频
+空间化声音
+衰减预设
+添加混响 Reverb
+Sound Cue 对声音进行蓝图
+Sound Cue 制作多普勒音效
+空气吸收 / 滤波
 
-## 8. 为球球添加各种技能
-* 超级跳
-    * Do Once
-    * Do N
-* 超级冲刺
-    * 获取物理线性速度
-    * 设置物理线性速度
-* 变色
-    * FlipFlop
-* 变身
-    * 设置静态网格体
-* 放大缩小
-    * Branch
-* 瞬移门
-    * 设置位置
-* 火焰
-    * Spawn
+创建一个放置建筑的游戏
 
-## 9. 为场景添加特殊物件
-* 游戏场景边界：隐形的墙
-    * 阻挡体积
-    * Text Render
-* 不停旋转的障碍物
-    * 创建旋转体
-    * 设置旋转
-    * Timeline
-        * 浮点型 Float
-        * 使用最后一帧
-        * 循环
-* 不停摆动的方块
-    * Timeline
-        * 向量 Vector
-* 方块矩阵墙
-    * 构造脚本 Construction Script
-    * For Loop
-* 掉入深渊就返回原地
-* 一个按固定路线巡逻的球
-    * Spline
-    * Timeline
-        * Vector
-* 胜利区域
-    * 粒子系统
+创建一个跑步游戏
 
-## 10. 为游戏添加UI
-* 添加血量和魔法量
-    * 为 Ball 添加公有变量 HP（血量） 和 MP（魔法值） 
-    * 为 Ball 添加公有变量 MaxHP 和 MaxMP
-* 技能按钮
-* 添加暂停菜单
-    * LOGO
-    * 返回游戏按钮
-    * 退出游戏按钮
+飞行游戏
 
-## 11. 为游戏添加一些难度
-* 添加掉血区域
-    * Event Any Damege
-    * Apply Damege
-    * 跟随的火焰
-* 添加补血物品
-    * Apply Damege
-    * 跟随的治疗光环
+汽车游戏r
 
-## 12. 优化场景
+---------------
 
-* 剔除距离体积
-    
-    ![输入图片说明](https://docs.unrealengine.com/Images/Engine/Rendering/VisibilityCulling/CullDistanceVolume/ExampleScene_SuggestedPairValues.webp "")
+###第三阶段
+高级光照，动画制作，蓝图动画，场景优化，实时光线追踪，不同的运动组件
 
-* 优化载入
-    * Level Streaming Volume
+准备新世界
+推荐几个megascan的超帅场景，为静态光照 动画 电影做准备
+草原牧场
+temperate Vegetation: Foliage Collection
+temperate Vegetation: Meadow Flowers
+Megascans——Meadow Pack
+Landscape Backgrounds
+Brushify
+废墟公寓
+Megascans Abandoned Apartment
+山洞蜡烛
+Megascans Goddess Temple
+Lake House
 
-* 优化光照
-    * Lightmass Importance Volume
-    * LightmassCharacterIndirectDetailVolume1
+优化光照
+静态光照
+开关
+参数设置
+贴图分辨率
+查看分辨率 变成绿色
+Post Processing 开启光线追踪
+Post Processing 更多光的细节设置
+GPU LightMass(R.Ray.Force)
+项目设置（Ray? ，虚拟纹理，默认rhi Directx
 
-## 流程控制
-* Branch
-* FlipFlop
-* Do Once
-* Do N
-* DoOnce_MultiInput
-* ForLoop
-* Gate
-* MultiGate
-* Squence与Delay
+Sequencer 制作动画
+准备场景
+添加摄像机并运镜
+蓝图控制动画
 
-## UI
-* Widget
 
-## Materials 材质
 
-## Animation 动画
-* 纸上2D游戏
-* 骨架
-* 骨骼模型（Skeletal Mesh）
-* 动画序列（Animation Sequence）
-* 顶点动画
+人物动画
+如果一个Animation包含很多动作，就用Subscenes Track把这场戏做到一起。
+Sequencer Recorder 
+添加更多场景元素
 
-## 使用Random创建一座城
+优化场景
+Level Streaming
+Cuiling Distance
+LOD
+动态载
 
-## Paper2D
+动画蓝图
+制作一个大头娃娃 蓝图与动画蓝图通讯
+转身动画
+创建一个新的动画资产，并为人物添加该行为
+导入更多的人物动画
 
-## 粒子系统
+运动组件
+角色运动
+抛射运动
+汽车运动
+飞行运动
+自定义运动
 
-## Audio
+Blender For UE
+
+--------------------
+
+###第四阶段
+Cascade粒子系统，Niagara粒子系统与Chaos物理系统
+
+1. beam
+2. 烟雾
+3. 魔法门
+
+---------------------
+
+###第五阶段
+材质，介绍各种材质的制作方法，Pivot
+
+玻璃
+Pivot
+
+###第六阶段
+NPC AI，Morph Target，
+
+Morph Target
+
+AI和行为树
+在两点之间巡逻
+NavMesh
+
+第七阶段
+网络游戏，服务器架设与数据库基础，多人游戏基础
+
+多人游戏基础
+
