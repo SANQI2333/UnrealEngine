@@ -7,6 +7,7 @@
 - 基本游览操作
 - 基本变换操作与对齐操作
 - 快速定位目标
+- 相机的移动速度
 - 修改编辑器的语言
 - 修改默认打开的地图
 - 使用初学者内容包
@@ -103,6 +104,7 @@
 - Free Fantasy Weapon Sample Pack（必需，武器）
 - interactive stylized Lowpoly Grass （必需，可交互草地）
 - Craft Resources Icons（必需，UI图标）
+- Stylized Character Kit: Casual 01（必需，人物）
 ### 
 - Particles and Wind Control System（可选，天气粒子）
 - Niagara Footstep VFX（可选，走路粒子特效）
