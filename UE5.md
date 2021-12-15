@@ -5,13 +5,13 @@
 
 - [新建第一个游戏项目](https://www.bilibili.com/video/BV1Za4y1s7ti?p=2)
 - [基本游览操作](https://www.bilibili.com/video/BV1Za4y1s7ti?p=3)
-- [基本变换操作与对齐操作](http://www.bilibili.com/video/BV1Za4y1s7ti?p=4)
-- [快速定位目标](http://www.bilibili.com/video/BV1Za4y1s7ti?p=5)
-- [相机的移动速度](http://www.bilibili.com/video/BV1Za4y1s7ti?p=6)
-- [修改编辑器的语言](http://www.bilibili.com/video/BV1Za4y1s7ti?p=7)
-- [修改默认打开的地图](http://www.bilibili.com/video/BV1Za4y1s7ti?p=8)
-- [使用初学者内容包](http://www.bilibili.com/video/BV1Za4y1s7ti?p=9)
-- [目录结构说明](http://www.bilibili.com/video/BV1Za4y1s7ti?p=10)
+- [基本变换操作与对齐操作](https://www.bilibili.com/video/BV1Za4y1s7ti?p=4)
+- [快速定位目标](https://www.bilibili.com/video/BV1Za4y1s7ti?p=5)
+- [相机的移动速度](https://www.bilibili.com/video/BV1Za4y1s7ti?p=6)
+- [修改编辑器的语言](https://www.bilibili.com/video/BV1Za4y1s7ti?p=7)
+- [修改默认打开的地图](https://www.bilibili.com/video/BV1Za4y1s7ti?p=8)
+- [使用初学者内容包](https://www.bilibili.com/video/BV1Za4y1s7ti?p=9)
+- [目录结构说明](https://www.bilibili.com/video/BV1Za4y1s7ti?p=10)
     - _项目名
         - Blueprints 蓝图
         - Maps 地图
@@ -31,21 +31,21 @@
             - 资产名
                 - Materials
                 - Textures
-- [放置各种光源](http://www.bilibili.com/video/BV1Za4y1s7ti?p=11)
-- [玩家出生点的几种不同方式](http://www.bilibili.com/video/BV1Za4y1s7ti?p=12)
-- [打开物理引擎](http://www.bilibili.com/video/BV1Za4y1s7ti?p=13)
-- [创建第一个Actor蓝图](http://www.bilibili.com/video/BV1Za4y1s7ti?p=14)
+- [放置各种光源](https://www.bilibili.com/video/BV1Za4y1s7ti?p=11)
+- [玩家出生点的几种不同方式](https://www.bilibili.com/video/BV1Za4y1s7ti?p=12)
+- [打开物理引擎](https://www.bilibili.com/video/BV1Za4y1s7ti?p=13)
+- [创建第一个Actor蓝图](https://www.bilibili.com/video/BV1Za4y1s7ti?p=14)
     - 添加 文本组件 Text Component
     - 添加 盒体碰撞器 Box Collision
-- [编写第一段蓝图代码](http://www.bilibili.com/video/BV1Za4y1s7ti?p=15)
-- [触发火焰蓝图](http://www.bilibili.com/video/BV1Za4y1s7ti?p=16)
+- [编写第一段蓝图代码](https://www.bilibili.com/video/BV1Za4y1s7ti?p=15)
+- [触发火焰蓝图](https://www.bilibili.com/video/BV1Za4y1s7ti?p=16)
     - 添加静态网格体
     - 添加火焰粒子
 
 ## 获取资源
 
-- 使用UE商城
-    - 设置保存位置
+- [设置保存位置](http://www.bilibili.com/video/BV1Za4y1s7ti?p=17)
+- [Epic Games内容与Megascans](http://www.bilibili.com/video/BV1Za4y1s7ti?p=18)
     - Epic Games内容
         - 内容示例
         - 游戏
@@ -74,68 +74,77 @@
         - 素材
             - Soul: Cave
             - Soul: City
-    - Megascans
-        - temperate Vegetation: Foliage Collection
-        - temperate Vegetation: Meadow Flowers
-        - Megascans Meadow Pack 草甸合集
-        - 熔岩之地合集 / 干枯草地合集 / 采石场合集
-        - Megascans Abandoned Apartment 废弃的公寓
-        - Megascans Goddess Temple 神庙
-        - Megascans Urban Alleyway
-        - Megascans Fantasy Fort
-        - Megascans Cyberpunk Environment
-        - Megascans Post-Apocalyptic Street
-        - Megascans Desert Warzone
-        - Megascans Scary Restroom 恐怖卫生间
-        - Megascans Creature Gut 生物内脏
-        - Megascans Creature Skin 生物皮肤
-        - 各类材质
-        - Brushify
-        - Lake House
-    - 使用Quixel Bridge
+        - Megascans
+            - temperate Vegetation: Foliage Collection
+            - temperate Vegetation: Meadow Flowers
+            - Megascans Meadow Pack 草甸合集
+            - 熔岩之地合集 / 干枯草地合集 / 采石场合集
+            - Megascans Abandoned Apartment 废弃的公寓
+            - Megascans Goddess Temple 神庙
+            - Megascans Urban Alleyway
+            - Megascans Fantasy Fort
+            - Megascans Cyberpunk Environment
+            - Megascans Post-Apocalyptic Street
+            - Megascans Desert Warzone
+            - Megascans Scary Restroom 恐怖卫生间
+            - Megascans Creature Gut 生物内脏
+            - Megascans Creature Skin 生物皮肤
+            - 各类材质
+            - Brushify
+            - Lake House
+        - 使用Quixel Bridge
 
-## 准备素材
+- [准备素材](https://www.bilibili.com/video/BV1Za4y1s7ti?p=19)
+    ### LOW POLY
+    - 虚幻学习包:游戏 （必需，主素材）
+    - FX Variety Pack（必需，魔法特效）
+    - MCO Mocap Basics（必需，人物动画）
+    - Free Fantasy Weapon Sample Pack（必需，武器）
+    - interactive stylized Lowpoly Grass （必需，可交互草地）
+    - Craft Resources Icons（必需，UI图标）
+    - Stylized Character Kit: Casual 01（必需，人物）
+    - Particles and Wind Control System（可选，天气粒子）
+    - Niagara Footstep VFX（可选，走路粒子特效）
+    - SuperGrid Starter pack（可选，方块矩阵场景）
+    - Easy Building System v10（可选，建造类游戏模版）
+    - Advanced Puzzle Constructor（可选，解密类游戏模版）
+    
+    ### 次时代
+    - Soul: Cave
+    - Soul: City
+    - Stylized Character Kit: Casual 01
+    - MCO Mocap Basics
+    - 熔岩之地合集
+    - 干枯草地合集
+    - 采石场合集
+    - Landscape Backgrounds
+    - Dynamic Grass System Lite
+    - Megascans - Forest Path
+    - Vehicle Variety Pack
+    - FPS Weapon Bundle
+    - M5 VFX Vol2. Fire and Flames
+    - Water Materials
+    - Advanced Glass Material Pack
 
-### LOW POLY
-- 虚幻学习包:游戏 （必需，主素材）
-- FX Variety Pack（必需，魔法特效）
-- MCO Mocap Basics（必需，人物动画）
-- Free Fantasy Weapon Sample Pack（必需，武器）
-- interactive stylized Lowpoly Grass （必需，可交互草地）
-- Craft Resources Icons（必需，UI图标）
-- Stylized Character Kit: Casual 01（必需，人物）
-### 
-- Particles and Wind Control System（可选，天气粒子）
-- Niagara Footstep VFX（可选，走路粒子特效）
-- SuperGrid Starter pack（可选，方块矩阵场景）
-- Easy Building System v10（可选，建造类游戏模版）
-- Advanced Puzzle Constructor（可选，解密类游戏模版）
-
-### 次时代
-- Soul: Cave
-- Soul: City
-- Stylized Character Kit: Casual 01
-- MCO Mocap Basics
-- 熔岩之地合集
-- 干枯草地合集
-- 采石场合集
-- Landscape Backgrounds
-- Dynamic Grass System Lite
-- Megascans - Forest Path
-- Vehicle Variety Pack
-- FPS Weapon Bundle
-- M5 VFX Vol2. Fire and Flames
-- Water Materials
-- Advanced Glass Material Pack
+- [如何使用资源](https://www.bilibili.com/video/BV1Za4y1s7ti?p=20)
 
 ## 初涉玩家角色
 
-- 修改游戏模式
-- 修改玩家视角的摄像机
-- 角色移动属性 - 行走速度与行走地面角度
-- 角色移动属性 - 跳跃
-- 角色移动属性 - 重力
-- 为角色添加一个手电筒
+- [修改游戏模式](https://www.bilibili.com/video/BV1Za4y1s7ti?p=21)
+- [修改玩家视角的摄像机](http://www.bilibili.com/video/BV1Za4y1s7ti?p=22)
+- [角色移动属性 - 行走速度与行走地面角度](http://www.bilibili.com/video/BV1Za4y1s7ti?p=23)
+- [角色移动属性 - 跳跃](https://www.bilibili.com/video/BV1Za4y1s7ti?p=24)
+- [角色移动属性 - 重力](https://www.bilibili.com/video/BV1Za4y1s7ti?p=25)
+- [为角色添加一个手电筒](https://www.bilibili.com/video/BV1Za4y1s7ti?p=26)
+
+
+## 导入模型
+
+- [导入](https://www.bilibili.com/video/BV1Za4y1s7ti?p=27)
+- [统一模型比例](https://www.bilibili.com/video/BV1Za4y1s7ti?p=28)
+- [给静态网格体添加碰撞](https://www.bilibili.com/video/BV1Za4y1s7ti?p=29)
+- 了解LOD
+- 设置LOD
 
 ## 初涉地形
 
@@ -147,12 +156,6 @@
 - 放上树木 草地 石头
 - 使用植物工具创造地形
 
-## 导入模型
-
-- 导入模型与调整材质
-- 给静态网格体添加碰撞
-- 了解LOD
-- 设置LOD
 
 ## 初涉材质
 
