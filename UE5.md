@@ -222,7 +222,7 @@
 - [Tick事件](http://www.bilibili.com/video/BV1Za4y1s7ti?p=73)
 - [鼠标滚轮控制摄像机](http://www.bilibili.com/video/BV1Za4y1s7ti?p=74)
 - [使用Clamp限制数值](http://www.bilibili.com/video/BV1Za4y1s7ti?p=75)
-- [操作映射](http://www.bilibili.com/video/BV1Za4y1s7ti?p=76）
+- [操作映射](http://www.bilibili.com/video/BV1Za4y1s7ti?p=76)
 - [技能：超级跳](http://www.bilibili.com/video/BV1Za4y1s7ti?p=77)
 - [冷却时间 / Do Once](http://www.bilibili.com/video/BV1Za4y1s7ti?p=78)
 - [添加特效与声效](http://www.bilibili.com/video/BV1Za4y1s7ti?p=79)
