@@ -148,89 +148,62 @@
 
 ## 初涉地形
 
-- 新建关卡
-- 准备地形材质
-- 创造一个地形
-- 使用各类地形工具
-- 使用Landmass创建地形
-- 放上树木 草地 石头
-- 使用植物工具创造地形
-
-
-## 初涉材质
-
-- 初涉材质 - 混合模式
-- 初涉材质 - 着色模型
-    - 默认光照（Default Lit）最常用设置。它将以标准的方式反射光线。
-    - 无光照（Unlit）这不会反射任何光线。基本颜色（BaseColor）始终是黑色。这通常用于VFX或 光源函数（Light Functions）。
-    - 次表面（SubSurface）效果的快速渲染模拟。这个着色模型在有动态阴影的对象上效果最好，因为它可改变对象的投影。最后，您可以把它用在有烘焙照明的静态对象上，但是效果会丢失。最好用于角色皮肤或叶子。
-- 初涉材质 - 双面
-- 初涉材质 - 金属感与粗糙度
-- 初涉材质 - 高光
-- 初涉材质 - 材质纹理贴图
-- 初涉材质 - 自发光
-- 初涉材质 - 颜色的四则运算
-- 初涉材质 - 材质实例
-- 初涉材质 - UV
-- 初涉材质 - UV缩放
-- 初涉材质 - UV平移
-- 初涉材质 - 着色
-- 初涉材质 - 线性插值融合颜色
-- 初涉材质 - 线性插值融合颜色与纹理贴图
-- 初涉材质 - 线性插值融合纹理贴图
-- 初涉材质 - 法线贴图
-- 初涉材质 - 法线贴图的制作
-- 初涉材质 - 线性插值控制法线贴图强度
-- 初涉材质 - 半透明材质
-- 初涉材质 - 光照方式
-    - 体积非定向（Volumetric Non Directional）网格体被照明，就像它被用来创造一个体积效果（例如烟雾）。将仅显示漫射照明，且不使用法线。这是最便宜的光照半透明形式。
-    - 体积定向（Volumetric Directional）网格体被照明，就像它被用来创造一个体积效果（例如烟雾），但使用的法线会影响照明。将仅显示漫射照明。
-    - 表面（Surface）它被照明并收到反射光，但反射光是有限的，并且效果不如不透明材料好。它只是选择最近的反射捕获Actor并将其应用于整个对象。
-- 初涉材质 - 折射
-- 初涉材质 - 遮罩
-- 初涉材质 - 动态材质 Rotator
-- 贴花材质 - 墙画
-- 贴花材质 - 取消接收贴花
-- 贴花材质 - 贴花顺序
-- 贴花材质 - 污迹
-- 贴花材质 - 裂缝
-- 地形材质 - 多种材质混合
+- [创造一块地形](http://www.bilibili.com/video/BV1Za4y1s7ti?p=30)
+- [使用各类地形工具](http://www.bilibili.com/video/BV1Za4y1s7ti?p=31)
+- [创造海洋](http://www.bilibili.com/video/BV1Za4y1s7ti?p=32)
+- [创造植物](http://www.bilibili.com/video/BV1Za4y1s7ti?p=33)
 
 ## 初涉视觉效果
 
-- 高度雾与体积光
-- 天光
-- 体积云
-- 后期处理体积 光照强度
-- 后期处理体积 镜头特效
-- 后期处理体积 调色
+- [指数级高度雾](http://www.bilibili.com/video/BV1Za4y1s7ti?p=34)
+- [体积光](http://www.bilibili.com/video/BV1Za4y1s7ti?p=35)
+- [天光](http://www.bilibili.com/video/BV1Za4y1s7ti?p=36)
+- [后期处理体积 光照强度](http://www.bilibili.com/video/BV1Za4y1s7ti?p=37)
+- [后期处理体积 镜头特效](http://www.bilibili.com/video/BV1Za4y1s7ti?p=38)
+- [后期处理体积 调色](http://www.bilibili.com/video/BV1Za4y1s7ti?p=39)
 
 ## 初涉粒子
 
-- 初涉粒子：添加一些漂浮的闪光粒子
-- 初涉粒子：做一个树叶落下的粒子
+- [添加一些漂浮的闪光粒子](http://www.bilibili.com/video/BV1Za4y1s7ti?p=40)
 
 ## 初涉声音
 
-- 初涉声音：BGM / 循环播放
-- 初涉声音：给火加一个音效
+- [导入音频](http://www.bilibili.com/video/BV1Za4y1s7ti?p=41)
+- [BGM / 循环播放](http://www.bilibili.com/video/BV1Za4y1s7ti?p=42)
+- [MP3转WAV](http://www.bilibili.com/video/BV1Za4y1s7ti?p=43)
+- [给火加一个音效](http://www.bilibili.com/video/BV1Za4y1s7ti?p=44)
+
+## 初涉材质
+
+- [基础颜色](http://www.bilibili.com/video/BV1Za4y1s7ti?p=45)
+- [混合模式与双面](http://www.bilibili.com/video/BV1Za4y1s7ti?p=46)
+- [金属感 高光 与 粗糙度](http://www.bilibili.com/video/BV1Za4y1s7ti?p=47)
+- [自发光](http://www.bilibili.com/video/BV1Za4y1s7ti?p=48)
+- [纹理贴图](http://www.bilibili.com/video/BV1Za4y1s7ti?p=49)
+- [法线贴图](http://www.bilibili.com/video/BV1Za4y1s7ti?p=50)
+- [导入纹理](http://www.bilibili.com/video/BV1Za4y1s7ti?p=51)
+- [贴花材质](http://www.bilibili.com/video/BV1Za4y1s7ti?p=52)
+- [贴花材质 - 取消接收贴画](http://www.bilibili.com/video/BV1Za4y1s7ti?p=53)
+- [贴花材质 - 制作法线贴图](http://www.bilibili.com/video/BV1Za4y1s7ti?p=54)
+- [贴花材质 - 完成贴花](http://www.bilibili.com/video/BV1Za4y1s7ti?p=55)
+
+#### [P.S 其他材质课程](http://)
 
 ## 初涉过场动画
 
-- 创建一个镜头动画
+- [创建一个镜头动画](http://www.bilibili.com/video/BV1Za4y1s7ti?p=56)
     - 做动画前将视窗调节至双视图, 左透视，右序列器
     - 快捷键 "s" 打关键帧
-- 不同机位剪辑
-- 其他元素动画
-- 自动播放动画
-- 灯光动画
-- 蓝图播放动画
-- 镜头试拍录制器
-- AI控制器 - 直线行走
-- 时间膨胀
-- 渐变轨道
-- 导入音乐
-- 导出动画
+- [不同机位剪辑](http://www.bilibili.com/video/BV1Za4y1s7ti?p=57)
+- [其他元素动画](http://www.bilibili.com/video/BV1Za4y1s7ti?p=58)
+- [灯光动画](http://www.bilibili.com/video/BV1Za4y1s7ti?p=59)
+- [自动播放动画](http://www.bilibili.com/video/BV1Za4y1s7ti?p=60)
+- [序列录制器](http://www.bilibili.com/video/BV1Za4y1s7ti?p=61)
+- [添加角色动画](http://www.bilibili.com/video/BV1Za4y1s7ti?p=62)
+- [时间膨胀](http://www.bilibili.com/video/BV1Za4y1s7ti?p=63)
+- [渐变轨道](http://www.bilibili.com/video/BV1Za4y1s7ti?p=64)
+- [音频轨道](http://www.bilibili.com/video/BV1Za4y1s7ti?p=65)
+- [导出动画](http://www.bilibili.com/video/BV1Za4y1s7ti?p=66)
 
 ## 作业：地图编辑
 
@@ -238,43 +211,66 @@
 - 地编实例：创造一个森林
 - 地编实例：创造一个沙滩
 
-## 准备Fantasy Sky
+## 角色入门
 
-- 创建一个GameMode
-- 创建一个ThirdPersonCharacter
-- 替换角色模型
-- Begin 开始事件
-- Tick 不断重复执行的事件 / Delta Seconds
-- Destroy 死亡时触发的事件
-- 显示鼠标光标
-- 鼠标滚轮控制摄像机
+- [替换角色骨骼网格体](http://www.bilibili.com/video/BV1Za4y1s7ti?p=67)
+- [重定向动画蓝图](http://www.bilibili.com/video/BV1Za4y1s7ti?p=68)
+- [重定向动画](http://www.bilibili.com/video/BV1Za4y1s7ti?p=69)
+- [Begin 开始事件 与 Print](http://www.bilibili.com/video/BV1Za4y1s7ti?p=70)
+- [显示鼠标光标](http://www.bilibili.com/video/BV1Za4y1s7ti?p=71)
+- [添加注释](http://www.bilibili.com/video/BV1Za4y1s7ti?p=72)
+- [Tick事件](http://www.bilibili.com/video/BV1Za4y1s7ti?p=73)
+- [鼠标滚轮控制摄像机](http://www.bilibili.com/video/BV1Za4y1s7ti?p=74)
+- [使用Clamp限制数值](http://www.bilibili.com/video/BV1Za4y1s7ti?p=75)
+- [操作映射](http://www.bilibili.com/video/BV1Za4y1s7ti?p=76）
+- [技能：超级跳](http://www.bilibili.com/video/BV1Za4y1s7ti?p=77)
+- [冷却时间 / Do Once](http://www.bilibili.com/video/BV1Za4y1s7ti?p=78)
+- [添加特效与声效](http://www.bilibili.com/video/BV1Za4y1s7ti?p=79)
+- [技能：多段跳](http://www.bilibili.com/video/BV1Za4y1s7ti?p=80)
+- [技能 - 拾取技能石](http://www.bilibili.com/video/BV1Za4y1s7ti?p=81)
+- [技能 - 漂浮的技能石](http://www.bilibili.com/video/BV1Za4y1s7ti?p=82)
+- [技能 - 萤火 - 添加动画](http://www.bilibili.com/video/BV1Za4y1s7ti?p=83)
+- [技能 - 萤火 - 粒子](http://www.bilibili.com/video/BV1Za4y1s7ti?p=84)
+- [技能 - 萤火 - 蓝图](http://www.bilibili.com/video/BV1Za4y1s7ti?p=85)
+- [技能 - 萤火 - 完成技能](http://www.bilibili.com/video/BV1Za4y1s7ti?p=86)
+- [技能 - 径向力 - 添加输入与动画](http://www.bilibili.com/video/BV1Za4y1s7ti?p=87)
+- [技能 - 径向力 - 添加径向力 Radial Force](http://www.bilibili.com/video/BV1Za4y1s7ti?p=88)
+- [技能 - 径向力 - 摄像机晃动](http://www.bilibili.com/video/BV1Za4y1s7ti?p=89)
 
 ## 场景
-- 设置边界 / 阻挡体积
-- 变色球 / Timeline
-- 开门 / Timeline 与 Gate
-- 点亮灯
-- 组件的层级插槽
-- 灯不同的亮度和颜色 / 公有(public)变量与私有(private)变量
-- 点亮所有灯 / Get all actors of class
-- 物品点击事件
-- 机关 / 事件分发器
-- 旋转的大风扇 /  Timeline
-- 游走的粒子 / Timeline 与 Spline
-- 瞬移到指定目标点 Target Point
-- 摧毁Z
-- 掉落深渊返回原地
-- 关卡切换
-- 关卡流送
+
+- [设置边界 / 阻挡体积](http://www.bilibili.com/video/BV1Za4y1s7ti?p=90)
+- [掉落深渊返回原地](http://www.bilibili.com/video/BV1Za4y1s7ti?p=91)
+- [超级大风扇 /  Timeline](http://www.bilibili.com/video/BV1Za4y1s7ti?p=92)
+- [瞬移门 Target Point](http://www.bilibili.com/video/BV1Za4y1s7ti?p=93)
+- [点击事件](http://www.bilibili.com/video/BV1Za4y1s7ti?p=94)
+- [Gate节点](http://www.bilibili.com/video/BV1Za4y1s7ti?p=95)
+- [开关门 / Timeline 与 Gate](http://www.bilibili.com/video/BV1Za4y1s7ti?p=96)
+- [点亮灯](http://www.bilibili.com/video/BV1Za4y1s7ti?p=97)
+- [子蓝图](http://www.bilibili.com/video/BV1Za4y1s7ti?p=98)
+- [点亮所有灯](http://www.bilibili.com/video/BV1Za4y1s7ti?p=99)
+- [通用开关 事件分发器](http://www.bilibili.com/video/BV1Za4y1s7ti?p=100)
+- [按路径漂浮的岛 - 添加样条组件](http://www.bilibili.com/video/BV1Za4y1s7ti?p=101)
+- [按路径漂浮的岛 - 编写蓝图](http://www.bilibili.com/video/BV1Za4y1s7ti?p=102)
+- [关卡切换](http://www.bilibili.com/video/BV1Za4y1s7ti?p=103)
+- [关卡流送](http://www.bilibili.com/video/BV1Za4y1s7ti?p=104)
+
+## 构造脚本 Construction Script 
+
+- [简介](http://www.bilibili.com/video/BV1Za4y1s7ti?p=105)
+- [动态添加静态网格体组件](http://www.bilibili.com/video/BV1Za4y1s7ti?p=106)
+- [循环生成静态网格体 / For](http://www.bilibili.com/video/BV1Za4y1s7ti?p=107)
+- [使用FOR循环创造栅栏](http://www.bilibili.com/video/BV1Za4y1s7ti?p=108)
+- [使用数组优化栅栏](http://www.bilibili.com/video/BV1Za4y1s7ti?p=109)
+- [使用Spline生成石头墙](http://www.bilibili.com/video/BV1Za4y1s7ti?p=110)
 
 ## 主角
 - 角色移动组件
 - 输入方法 / 项目设置 - 引擎 - 输入
 - MoveUp / MoveForward
 - 角色事件
-- 技能：超级跳
-- 技能冷却时间 / Do Once
-- 技能：多段跳 / Do N
+-
+
 - 技能：超级冲刺
 - 绑定动画 / 重定向动画
 - 技能：萤火 - 添加动画
