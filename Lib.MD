@@ -1,38 +1,4 @@
-### 入门教程：
+### 动作捕捉
 
-Low Poly Rain Forest
-
-https://pan.baidu.com/s/1HYCRkcyZV6oov5pzJuV8HQ (00pv)
-
-
-Low Poly Tropical Pack
-
-https://pan.baidu.com/s/1ZIRcNKOrUvwWXFkOK3oMHQ (0eak)
-
-
-### 进阶教程：
-
-POLYGON - Scifi City
-
-https://pan.baidu.com/s/1jiI-I6iM6hXNfSSBLqULDw (2x55)
-
-
-LP287 Character P1
-
-https://pan.baidu.com/s/18fzIwxkaJVdYhCrBLayRjA (0y46)
-
-
-Lowpoly Style Desert Pack
-
-https://pan.baidu.com/s/10JWx3Os4OZmUWBS0L88dog (5099)
-
-
-人物动画（不断添加）
-
-https://pan.baidu.com/s/1ZXagSZWpECQjnNi7xsNA8w （ww42)
-
-
-人物音效（不断添加）
-
-https://pan.baidu.com/s/1_jXRreUxbQ32groAml1AWA （3k89）
-
+链接：https://pan.baidu.com/s/1ppDWne2cJGRskmLcllaXfA 
+提取码：tttt 
