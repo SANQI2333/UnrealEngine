@@ -264,37 +264,111 @@
 - [使用数组优化栅栏](http://www.bilibili.com/video/BV1Za4y1s7ti?p=109)
 - [使用Spline生成石头墙](http://www.bilibili.com/video/BV1Za4y1s7ti?p=110)
 
-## 主角
-- 角色移动组件
-- 输入方法 / 项目设置 - 引擎 - 输入
-- MoveUp / MoveForward
-- 角色事件
--
+## 角色
+- [准备新世界](https://www.bilibili.com/video/BV19Q4y1e7uX?p=1)
+- [Lumen设置](http://www.bilibili.com/video/BV19Q4y1e7uX?p=2)
+- [使用Nanite资源与Quixel Bridge](http://www.bilibili.com/video/BV19Q4y1e7uX?p=3)
+- [模块化网格体](http://www.bilibili.com/video/BV19Q4y1e7uX?p=4)
+- [使用模块化网格体构建世界](http://www.bilibili.com/video/BV19Q4y1e7uX?p=5)
+- [完成场景](http://www.bilibili.com/video/BV19Q4y1e7uX?p=6)
+- [MetaHuman - 创造角色](http://www.bilibili.com/video/BV19Q4y1e7uX?p=7)
+- [MetaHuman - 使用Bridge下载](http://www.bilibili.com/video/BV19Q4y1e7uX?p=8)
+- [MetaHuman - 做为第三人称角色](http://www.bilibili.com/video/BV19Q4y1e7uX?p=9)
+- [MetaHuman - 重定向设置](http://www.bilibili.com/video/BV19Q4y1e7uX?p=10)
+- [使用低模人物](http://www.bilibili.com/video/BV19Q4y1e7uX?p=11)
+- [准备动画](http://www.bilibili.com/video/BV19Q4y1e7uX?p=12)
+- [了解动画蓝图](http://www.bilibili.com/video/BV19Q4y1e7uX?p=13)
+- [移动能力 - 待机与跑步](http://www.bilibili.com/video/BV19Q4y1e7uX?p=14)
+- [移动能力 - 行走](http://www.bilibili.com/video/BV19Q4y1e7uX?p=15)
+- [移动能力 - 疾速跑](http://www.bilibili.com/video/BV19Q4y1e7uX?p=16)
+- [移动能力 - 蹲伏 - 添加输入](http://www.bilibili.com/video/BV19Q4y1e7uX?p=17)
+- [移动能力 - 蹲伏 - 动画蓝图](http://www.bilibili.com/video/BV19Q4y1e7uX?p=18)
+- [角色属性 - 行动点数 - 消耗与恢复](http://www.bilibili.com/video/BV19Q4y1e7uX?p=19)
+- [角色属性 - 行动点数 - 触发消耗](http://www.bilibili.com/video/BV19Q4y1e7uX?p=20)
+- [角色属性 - 行动点数 - 修改蓝图](http://www.bilibili.com/video/BV19Q4y1e7uX?p=21)
+- [角色属性 - 行动点数 - 优化蓝图](http://www.bilibili.com/video/BV19Q4y1e7uX?p=22)
+- [角色属性 - HP - 伤害事件](http://www.bilibili.com/video/BV19Q4y1e7uX?p=23)
+- [角色属性 - HP - 伤害动画](http://www.bilibili.com/video/BV19Q4y1e7uX?p=24)
+- [角色属性 - HP - 测试伤害](http://www.bilibili.com/video/BV19Q4y1e7uX?p=25)
+- [角色属性 - HP - 伤害等级](http://www.bilibili.com/video/BV19Q4y1e7uX?p=26)
+- [角色属性 - HP - 禁止移动](http://www.bilibili.com/video/BV19Q4y1e7uX?p=27)
+- [角色属性 - HP - 火球发射物](http://www.bilibili.com/video/BV19Q4y1e7uX?p=28)
+- [角色属性 - HP - 火球发射器](http://www.bilibili.com/video/BV19Q4y1e7uX?p=29)
+- [角色属性 - HP - 如何获取两者的距离与方向](http://www.bilibili.com/video/BV19Q4y1e7uX?p=30)
+- [角色属性 - HP - 火球的空间化声音](http://www.bilibili.com/video/BV19Q4y1e7uX?p=31)
+- [角色属性 - HP - 火球的伤害](http://www.bilibili.com/video/BV19Q4y1e7uX?p=32)
+- [角色属性 - HP - 火球撞到地面](http://www.bilibili.com/video/BV19Q4y1e7uX?p=33)
+- [角色属性 - HP - 衰减音效](http://www.bilibili.com/video/BV19Q4y1e7uX?p=34)
+- [角色属性 - HP - 单次加血光环](http://www.bilibili.com/video/BV19Q4y1e7uX?p=35)
+- [角色属性 - HP - 持续加血光环](http://www.bilibili.com/video/BV19Q4y1e7uX?p=36)
+- [角色属性 - MP](http://www.bilibili.com/video/BV19Q4y1e7uX?p=37)
+- [技能 - 准备资源](http://www.bilibili.com/video/BV19Q4y1e7uX?p=38)
+- [技能 - 火球 - 添加输入与动画](http://www.bilibili.com/video/BV19Q4y1e7uX?p=39)
+- [技能 - 火球 - 修改发射物](http://www.bilibili.com/video/BV19Q4y1e7uX?p=40)
+- [技能 - 火球 - 发射蓝图](http://www.bilibili.com/video/BV19Q4y1e7uX?p=41)
+- [技能 - 火球 - 碰撞设置](http://www.bilibili.com/video/BV19Q4y1e7uX?p=42)
+- [技能 - 火球 - 生命周期](http://www.bilibili.com/video/BV19Q4y1e7uX?p=43)
+- [技能 - 火球 - 添加一个可被伤害的NPC](http://www.bilibili.com/video/BV19Q4y1e7uX?p=44)
+- [技能 - 火球 - 子蓝图实现父蓝图事件](http://www.bilibili.com/video/BV19Q4y1e7uX?p=45)
+- [技能 - 火球 - 消耗MP](http://www.bilibili.com/video/BV19Q4y1e7uX?p=46)
+- [技能 - 火球 - 添加冲量](http://www.bilibili.com/video/BV19Q4y1e7uX?p=47)
+- [技能 - AOE - 添加输入与动画](http://www.bilibili.com/video/BV19Q4y1e7uX?p=48)
+- [技能 - AOE - 准备粒子特效](http://www.bilibili.com/video/BV19Q4y1e7uX?p=49)
+- [技能 - AOE - 技能蓝图](http://www.bilibili.com/video/BV19Q4y1e7uX?p=50)
+- [技能 - AOE - 施放技能蓝图](http://www.bilibili.com/video/BV19Q4y1e7uX?p=51)
+- [技能 - AOE - 摄像机晃动](http://www.bilibili.com/video/BV19Q4y1e7uX?p=52)
+- [技能 - 瞬移 - 显示鼠标光标](http://www.bilibili.com/video/BV19Q4y1e7uX?p=53)
+- [技能 - 瞬移 - 施放技能蓝图](http://www.bilibili.com/video/BV19Q4y1e7uX?p=54)
+- [技能 - 瞬移 - 瞬移最大距离](http://www.bilibili.com/video/BV19Q4y1e7uX?p=55)
+- [技能 - 重力控制 - 添加输入与动画](http://www.bilibili.com/video/BV19Q4y1e7uX?p=56)
+- [技能 - 重力控制 - 施放技能蓝图](http://www.bilibili.com/video/BV19Q4y1e7uX?p=57)
+- [技能 - 重力控制 - 第二种技能玩法](http://www.bilibili.com/video/BV19Q4y1e7uX?p=58)
+- [技能 - 重力控制 - 角色朝向](http://www.bilibili.com/video/BV19Q4y1e7uX?p=59)
+- [技能 - 射击 - 安装射击武器](http://www.bilibili.com/video/BV19Q4y1e7uX?p=60)
+- [技能 - 射击 - 拿武器与收武器](http://www.bilibili.com/video/BV19Q4y1e7uX?p=61)
+- [技能 - 射击 - 跑步与待机](http://www.bilibili.com/video/BV19Q4y1e7uX?p=62)
+- [技能 - 射击 - 子弹发射物](http://www.bilibili.com/video/BV19Q4y1e7uX?p=63)
+- [技能 - 射击 - 优化子弹](http://www.bilibili.com/video/BV19Q4y1e7uX?p=64)
+- [技能 - 射击 - 摄像机位置](http://www.bilibili.com/video/BV19Q4y1e7uX?p=65)
+- [技能 - 射击 - 瞄准偏移](http://www.bilibili.com/video/BV19Q4y1e7uX?p=66)
+- [技能 - 射击 - 完成瞄准偏移](http://www.bilibili.com/video/BV19Q4y1e7uX?p=67)
+- [技能 - 射击 - 瞄准偏移的动画蓝图设置](http://www.bilibili.com/video/BV19Q4y1e7uX?p=68)
+- [技能 - 射击 - 向鼠标位置射击](http://www.bilibili.com/video/BV19Q4y1e7uX?p=69)
+- [技能 - 射击 - 连发](http://www.bilibili.com/video/BV19Q4y1e7uX?p=70)
+- [坐椅 - 准备资源](http://www.bilibili.com/video/BV19Q4y1e7uX?p=71)
+- [坐椅 - 准备动画与动画蓝图](http://www.bilibili.com/video/BV19Q4y1e7uX?p=72)
+- [坐椅 - 待机与奔跑](http://www.bilibili.com/video/BV19Q4y1e7uX?p=73)
+- [坐椅 - 蒙皮](http://www.bilibili.com/video/BV19Q4y1e7uX?p=74)
+- [坐椅 - 坐椅的父类](http://www.bilibili.com/video/BV19Q4y1e7uX?p=75)
+- [坐椅 - 将角色附加到坐椅](http://www.bilibili.com/video/BV19Q4y1e7uX?p=76)
+- [坐椅 - 添加插槽](http://www.bilibili.com/video/BV19Q4y1e7uX?p=77)
+- [坐椅 - 添加坐姿](http://www.bilibili.com/video/BV19Q4y1e7uX?p=78)
+- [坐椅 - 不同坐骑切换不同宽度](http://www.bilibili.com/video/BV19Q4y1e7uX?p=79)
+- [坐椅 - 下马](http://www.bilibili.com/video/BV19Q4y1e7uX?p=80)
+- [刀剑 - 添加输入与动画](http://www.bilibili.com/video/BV19Q4y1e7uX?p=81)
+- [刀剑 - 附魔](http://www.bilibili.com/video/BV19Q4y1e7uX?p=82)
+- [刀剑 - 伤害](http://www.bilibili.com/video/BV19Q4y1e7uX?p=83)
+- [伤害UI - 创建](http://www.bilibili.com/video/BV19Q4y1e7uX?p=84)
+- [伤害UI - 使用](http://www.bilibili.com/video/BV19Q4y1e7uX?p=85)
 
-- 技能：超级冲刺
-- 绑定动画 / 重定向动画
-- 技能：萤火 - 添加动画
-- 技能：萤火 - 粒子
-- 技能：萤火 - 蓝图
-- 技能：奥术火焰 - 添加动画
-- 技能：奥术火焰 - 摄像机抖动
-- 技能：奥术火焰 - 添加径向力 Radial Force
-- 技能：奥术火焰 - 生成火焰 / Spawn
-- 技能：发射魔法 - 使用Projectile Movement
-- 技能：发射魔法 - 添加冲量 Impulse
-- 技能：发射魔法 - 绑定动画
-- 技能：发射魔法 - 混合空间
-- 技能：发射火箭 - 使用物理推进器 Thurster
-- 技能：点击物品
-- 技能：瞬移 - 射线获取鼠标点击位置
-- 技能：瞬移 - 瞬移动画
-- 技能：控制重力
-- 技能：蓄能 / Timeline 计时
-- HP与MP / 浮点变量
-- 添加一个简单UI
-- 靶子
-- 装备武器
-- 肉搏
+## Chaos物理系统 
+- 创建可被破坏的物体
+- 多层级破裂
+- 群集化的破裂
+- 几何体集的材质
+- 伤害阈值
+- 瞬态场Transient Fields与张力场
+- 构造场Construction Fields与Anchor Fields锚点场
+- 持久场Persistent Fields与禁止场
+- 优化蓝图点击选择
+- 爆炸 - 径向向量
+- 优化爆炸 - 运算符域
+- 优化爆炸 - 扭矩与随机
+- 粒子特效 - 破裂与碰撞事件
+- 粒子特效 - 事件驱动粒子系统
+- 粒子特效 - 完成粒子特效
+- 绑定Chaos破裂或碰撞事件
+- 子弹
 
 ## 物品
 - 理解面向对象
