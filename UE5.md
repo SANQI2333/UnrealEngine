@@ -4,10 +4,17 @@
 ## 入门
 
 - [新建第一个游戏项目](https://www.bilibili.com/video/BV1Za4y1s7ti?p=2)
+- [添加定向光源]
+- [添加天空球体]
+- [添加基础的平面、立方体、球体、圆柱体]
 - [基本游览操作](https://www.bilibili.com/video/BV1Za4y1s7ti?p=3)
 - [基本变换操作与对齐操作](https://www.bilibili.com/video/BV1Za4y1s7ti?p=4)
 - [快速定位目标](https://www.bilibili.com/video/BV1Za4y1s7ti?p=5)
 - [相机的移动速度](https://www.bilibili.com/video/BV1Za4y1s7ti?p=6)
+- [添加指数级高度雾]
+- [添加体积光]
+- [添加体积云]
+- [添加天光]
 - [修改编辑器的语言](https://www.bilibili.com/video/BV1Za4y1s7ti?p=7)
 - [修改默认打开的地图](https://www.bilibili.com/video/BV1Za4y1s7ti?p=8)
 - [使用初学者内容包](https://www.bilibili.com/video/BV1Za4y1s7ti?p=9)
