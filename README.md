@@ -49,9 +49,9 @@
 <td>名称</td>
 <td>说明</td>
 </thead>
-<tr>
+<thead>
 <td colspan="2"><br><b>次时代</b><br><br></td>
-</tr>
+</thead>
 <tr>
 <td>Soul: Cave</td>
 <td>场景</td>
@@ -116,9 +116,9 @@
 <td>Advanced Glass Material Pack</td>
 <td>玻璃材质</td>
 </tr>
-<tr>
+<thead>
 <td colspan="2"><b><br>Low Poly<br><br></b></td>
-</tr>
+</thead>
 <tr>
 <td>虚幻学习包:游戏</td>
 <td>主素材</td>
