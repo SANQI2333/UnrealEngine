@@ -41,7 +41,6 @@
 
 - [使用虚幻商城]
 - [设置保存位置](http://www.bilibili.com/video/BV1Za4y1s7ti?p=17)
-- [使用的素材]
 - [准备素材](https://www.bilibili.com/video/BV1Za4y1s7ti?p=19)
 
 <table>
@@ -50,14 +49,10 @@
 <td>说明</td>
 </thead>
 <thead>
-<td colspan="2"><br><b>次时代</b><br><br></td>
+<td colspan="2"><br><b>Stylized</b><br><br></td>
 </thead>
 <tr>
-<td>Soul: Cave</td>
-<td>场景</td>
-</tr>
-<tr>
-<td>Soul: City</td>
+<td>Stylized Asian Village</td>
 <td>场景</td>
 </tr>
 <tr>
@@ -71,6 +66,10 @@
 <tr>
 <td>Advanced Cel Shader Lite</td>
 <td>后期处理</td>
+</tr>
+<tr>
+<td>Soul: Cave</td>
+<td>场景</td>
 </tr>
 <tr>
 <td>熔岩之地合集</td>
@@ -170,6 +169,7 @@
 </table>
 
 - [使用Quixel Bridge]
+  
 - [Epic Games示例内容](http://www.bilibili.com/video/BV1Za4y1s7ti?p=18)
 
 <table>
