@@ -794,15 +794,19 @@
 </tr>
 </table>
 
-<br>
-<br>
 
-- [使用Quixel Bridge]
+<h4 style="font-size:24px">Quixel Bridge资源</h4>
 
 ![](images/Bridge1.jpg)
 ![](images/Bridge2.jpg)
 ![](images/Bridge3.jpg)
 ![](images/Bridge4.png)
+
+
+- [使用]
+
+<br>
+<br>
 
 - [如何使用资源](https://www.bilibili.com/video/BV1Za4y1s7ti?p=20)
 
