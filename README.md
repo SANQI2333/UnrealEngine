@@ -794,8 +794,7 @@
 </tr>
 </table>
 
-
-<h4 style="font-size:24px">Quixel Bridge资源</h4>
+#### Quixel Bridge资源
 
 ![](images/Bridge1.jpg)
 ![](images/Bridge2.jpg)
