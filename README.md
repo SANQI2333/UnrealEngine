@@ -546,6 +546,17 @@
 </td>
 </tr>
 
+<tr>
+<td>Downtown West Modular Pack
+</td>
+<td>场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/ReleaseImage00-1920x1080-4c37f1dedc09db581cde98e253f551a7.jpg?resize=1&w=1920">
+</td>
+</tr>
+
 <thead>
 <td colspan="2" style="padding:15px;font-size:16px; background-color:#333"><b>美术风格：Low Poly</b></td>
 </thead>
@@ -558,6 +569,7 @@
 <img src="https://cdn1.epicgames.com/ue/product/Screenshot/Now%20with%20Robotics-1920x1080-a8fefe3e9d64c428fe00d55f1c10750c.png?resize=1&w=1920">
 </td>
 </tr>
+
 <tr>
 <td>Stylized Nature Pack
 </td>
@@ -568,6 +580,18 @@
 <img src="https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00006-1920x1080-94da3c81ba4238415a3f22309dfda0f9.png?resize=1&w=1920">
 </td>
 </tr>
+
+<tr>
+<td>Assetsville Town
+</td>
+<td>场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/assetsvilleTown09-1920x1080-1c7bc94855547bb5e631d905214d17cd.jpg?resize=1&w=1920">
+</td>
+</tr>
+
 <tr>
 <td>Free Fantasy Weapon Sample Pack</td>
 <td>武器</td>
