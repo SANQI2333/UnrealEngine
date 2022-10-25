@@ -58,7 +58,7 @@
 
 <table>
 <thead>
-<td colspan="2"><h4 style="font-size:24pt">风格:Stylized</h4></td>
+<td colspan="2"><h4 style="color:green">风格:Stylized</h4></td>
 </thead>
 <tr>
 <td>Stack O Bot</td>
