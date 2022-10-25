@@ -36,6 +36,13 @@
 - [使用初学者内容包](https://www.bilibili.com/video/BV1Za4y1s7ti?p=9)
 - [放置各种光源](https://www.bilibili.com/video/BV1Za4y1s7ti?p=11)
 - [打开物理引擎](https://www.bilibili.com/video/BV1Za4y1s7ti?p=13)
+- [创建第一个Actor蓝图](https://www.bilibili.com/video/BV1Za4y1s7ti?p=14)
+    - 添加 文本组件 Text Component
+    - 添加 盒体碰撞器 Box Collision
+- [编写第一段蓝图代码](https://www.bilibili.com/video/BV1Za4y1s7ti?p=15)
+- [触发火焰蓝图](https://www.bilibili.com/video/BV1Za4y1s7ti?p=16)
+    - 添加静态网格体
+    - 添加火焰粒子
 
 ### 获取资源
 
@@ -45,11 +52,7 @@
 
 <table>
 <thead>
-<td>名称</td>
-<td>说明</td>
-</thead>
-<thead>
-<td colspan="2"><br><b>Stylized</b><br><br></td>
+<td colspan="2"><br><b>美术风格：Stylized</b><br><br></td>
 </thead>
 <tr>
 <td>Stack O Bot</td>
@@ -206,10 +209,22 @@
 <img src="https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-ef734d0ef0539a2da32cc36a795dbd0d.jpg?resize=1&w=1920">
 </td>
 </tr>
-
+<thead>
+<td colspan="2"><br><b>音效</b><br><br></td>
+</thead>
+<tr>
+<td>Interface & Item Sounds Pack
+</td>
+<td>界面与物品音效</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/unreal%20-%20Gallery%20template-interface-1920x1080-870b4e2adb9b07508f9d4bf330deb028.png?resize=1&w=1920">
+</td>
+</tr>
 
 <thead>
-<td colspan="2"><br><b>次时代 写实</b><br><br></td>
+<td colspan="2"><br><b>美术风格：次时代 写实</b><br><br></td>
 </thead>
 <tr>
 <td>Landscape Pro 2.0 Auto-Generated Material</td>
@@ -233,9 +248,69 @@
 <td>Soul: 城市</td>
 <td>场景</td>
 </tr>
+
 <tr>
 <td colspan="2">
 <img src="https://cdn1.epicgames.com/ue/product/Screenshot/SoulCity01-1920x1080-caea6111851e633708d255bcc5f2cd02.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>City Park Environment Collection</td>
+<td>场景</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/CityParkscreenshot04-1920x1080-ddf74454a9dd1dd63e6363ef176944e1.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Factory Environment Collection</td>
+<td>场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/1080%201-1920x1080-34670004386027da9028a431f740d1e7.jpg?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Industry Props Pack 6
+</td>
+<td>场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/IndustryPropsPack6screenshot01-1920x1080-bc515bbc573503de1e0dfbea568398ef.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>ANIMAL VARIETY PACK
+</td>
+<td>动物</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/StoreWolfscreenshot01-1920x1080-0bb174e20f4f9c94ebdfc4d21d95b1e8.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Construction Site VOL. 1 - Supply and Material Props
+</td>
+<td>建筑工地道具</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/gallery12-1920x1080-5a20fc264663f198ea5c9f4f8af6525a.jpg?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Construction Site VOL. 2 - Tools, Parts, and Machine Props
+</td>
+<td>建筑工地道具</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/gallery10-1920x1080-36c067b208d7e45194bfb99c0dd3de5f.jpg?resize=1&w=1920">
 </td>
 </tr>
 <tr>
@@ -290,7 +365,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<img src="https://cdn1.epicgames.com/ue/item/Store_Landscape_Backgrounds_screenshot_1-1920x1080-d3de5489765f43e0769580c72289cf79.png?resize=1&w=1920">
+<img src="https://cdn1.epicgames.com/ue/item/Store_Landscape_Backgrounds_screenshot_2-1920x1080-ffb8f4def268081648364d150f71de19.png?resize=1&w=1920">
 </td>
 </tr>
 <tr>
@@ -308,7 +383,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<img src="https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00007-1920x1080-2cdd6758dc16e95c49aa0167a597c9e0.png?resize=1&w=1920">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/Forest%20Path%201-1920x1080-9ad63236c8a0d76b041057f187455323.png?resize=1&w=1920">
 </td>
 </tr>
 <tr>
@@ -340,15 +415,15 @@
 </td>
 </tr>
 <thead>
-<td colspan="2"><b><br>Low Poly<br><br></b></td>
+<td colspan="2"><b><br>美术风格：Low Poly<br><br></b></td>
 </thead>
 <tr>
-<td>虚幻学习工具包:游戏</td>
+<td>虚幻学习工具包</td>
 <td>主素材</td>
 </tr>
 <tr>
 <td colspan="2">
-<img src="https://cdn1.epicgames.com/ue/product/Screenshot/FXVarietyPackScreenshot1-1920x1080-166d9faa0b2295f3bc31fc5f0075fc29.png?resize=1&w=1920">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/Now%20with%20Robotics-1920x1080-a8fefe3e9d64c428fe00d55f1c10750c.png?resize=1&w=1920">
 </td>
 </tr>
 <tr>
@@ -357,7 +432,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<img src="https://cdn1.epicgames.com/ue/product/Screenshot/FXVarietyPackScreenshot1-1920x1080-166d9faa0b2295f3bc31fc5f0075fc29.png?resize=1&w=1920">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-cd0744c12aa3af4565de84daa81f582e.jpg?resize=1&w=1920">
 </td>
 </tr>
 <tr>
@@ -366,7 +441,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<img src="https://cdn1.epicgames.com/ue/product/Screenshot/FXVarietyPackScreenshot1-1920x1080-166d9faa0b2295f3bc31fc5f0075fc29.png?resize=1&w=1920">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-27defd987fc697bc855206564b4381c1.jpg?resize=1&w=1920">
 </td>
 </tr>
 <tr>
@@ -375,7 +450,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<img src="https://cdn1.epicgames.com/ue/product/Screenshot/FXVarietyPackScreenshot1-1920x1080-166d9faa0b2295f3bc31fc5f0075fc29.png?resize=1&w=1920">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/CraftResourcesIconsscreenshot01-1920x1080-23acb5100c2f6fe766ea54c8b19e873a.png?resize=1&w=1920">
 </td>
 </tr>
 </table>
@@ -386,10 +461,6 @@
 - [其他学习资源]
 
 <table>
-<thead>
-<td>名称</td>
-<td>说明</td>
-</thead>
 <tr>
 <td colspan="2"><br><b>游戏类</b><br><br></td>
 </tr>
@@ -410,7 +481,7 @@
 <td></td>
 </tr>
 <tr>
-<td>虚幻学习工具包：游戏</td>
+<td>虚幻学习工具包</td>
 <td></td>
 </tr>
 <tr>
@@ -580,6 +651,14 @@
 
 - [如何使用资源](https://www.bilibili.com/video/BV1Za4y1s7ti?p=20)
 
+### 初涉地形
+
+- [创造一块地形](http://www.bilibili.com/video/BV1Za4y1s7ti?p=30)
+- [使用各类地形工具](http://www.bilibili.com/video/BV1Za4y1s7ti?p=31)
+- [创造海洋](http://www.bilibili.com/video/BV1Za4y1s7ti?p=32)
+- [创造植物](http://www.bilibili.com/video/BV1Za4y1s7ti?p=33)
+
+
 ### 创建玩家
 
 - [创建游戏模式]
@@ -590,12 +669,6 @@
 - [角色移动属性 - 跳跃](https://www.bilibili.com/video/BV1Za4y1s7ti?p=24)
 - [角色移动属性 - 重力](https://www.bilibili.com/video/BV1Za4y1s7ti?p=25)
 
-### 初涉地形
-
-- [创造一块地形](http://www.bilibili.com/video/BV1Za4y1s7ti?p=30)
-- [使用各类地形工具](http://www.bilibili.com/video/BV1Za4y1s7ti?p=31)
-- [创造海洋](http://www.bilibili.com/video/BV1Za4y1s7ti?p=32)
-- [创造植物](http://www.bilibili.com/video/BV1Za4y1s7ti?p=33)
 
 ### 导入模型
 
@@ -626,22 +699,13 @@
             - 资产名
                 - Materials
                 - Textures
-- [创建第一个Actor蓝图](https://www.bilibili.com/video/BV1Za4y1s7ti?p=14)
-    - 添加 文本组件 Text Component
-    - 添加 盒体碰撞器 Box Collision
-- [编写第一段蓝图代码](https://www.bilibili.com/video/BV1Za4y1s7ti?p=15)
-- [触发火焰蓝图](https://www.bilibili.com/video/BV1Za4y1s7ti?p=16)
-    - 添加静态网格体
-    - 添加火焰粒子
+
 - [为角色添加一个手电筒](https://www.bilibili.com/video/BV1Za4y1s7ti?p=26)
 - [添加用户输入 - 开关手电筒]
 
 
-### 初涉视觉效果
+### 后期处理
 
-- [指数级高度雾](http://www.bilibili.com/video/BV1Za4y1s7ti?p=34)
-- [体积光](http://www.bilibili.com/video/BV1Za4y1s7ti?p=35)
-- [天光](http://www.bilibili.com/video/BV1Za4y1s7ti?p=36)
 - [后期处理体积 光照强度](http://www.bilibili.com/video/BV1Za4y1s7ti?p=37)
 - [后期处理体积 镜头特效](http://www.bilibili.com/video/BV1Za4y1s7ti?p=38)
 - [后期处理体积 调色](http://www.bilibili.com/video/BV1Za4y1s7ti?p=39)
