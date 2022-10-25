@@ -52,125 +52,338 @@
 <td colspan="2"><br><b>Stylized</b><br><br></td>
 </thead>
 <tr>
+<td>Stack O Bot</td>
+<td>工程</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot004-min-1920x1080-bf1296549a12b1c2274a18717377921d.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
 <td>Stylized Asian Village</td>
 <td>场景</td>
 </tr>
 <tr>
-<td>Stylized Character Kit: Casual 01</td>
-<td>人物</td>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-478a600641db3f47ec6ded6ed62217c6.jpg?resize=1&w=1920">
+</td>
 </tr>
 <tr>
+<td>Stylized Fantasy Provencal</td>
+<td>场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-f7089caf4fb1cd9d239d6ec05d53425b.jpg?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Stylized Egypt</td>
+<td>场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-553c6ee65381127776bfd0bdae6334cd.jpg?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Stylized Character Kit: Casual 01</td>
+<td>角色</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/00-1920x1080-c954a8b401f0d875c6ba792b92c8de87.jpg?resize=1&w=1920">
+</td>
+</tr>
+
+<thead>
+<td colspan="2"><br><b>动画</b><br><br></td>
+</thead>
+<tr>
+<td>动画初学者内容包</td>
+<td>动画</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/item/AnimStarterPack_Screenshot_02-1920x1080-3a8edbd150eaa0ace19f0f90cea68526.png?resize=1&w=1920">
+</td>
+</tr>
+
+<tr>
 <td>MCO Mocap Basics</td>
-<td>人物动画</td>
+<td>动画</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/StoreMCOMocapBasicsscreenshot01-1920x1080-8c4ae58f9b0e3f771b7ebe15c00bc6bd.jpg?resize=1&w=1920">
+</td>
+</tr>
+<thead>
+<td colspan="2"><br><b>材质</b><br><br></td>
+</thead>
+<tr>
+<td>Water Materials</td>
+<td>水材质</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/item/WaterMaterials_Screenshot_01-1920x1080-f8da0a269c73326e043ee79a94bf2bb2.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Advanced Glass Material Pack</td>
+<td>玻璃材质</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/item/AdvancedGlassPack_Screenshot_03-1920x1080-721af62dfd6844caf591d5424c3ea4f4.png?resize=1&w=1920">
+</td>
 </tr>
 <tr>
 <td>Advanced Cel Shader Lite</td>
 <td>后期处理</td>
 </tr>
 <tr>
-<td>Soul: Cave</td>
-<td>场景</td>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/dirtymanga1-1920x1080-58781e27b6ad1925bef02aa87b395e1b-1920x1080-58781e27b6ad1925bef02aa87b395e1b.png?resize=1&w=1920">
+</td>
+</tr>
+<thead>
+<td colspan="2"><br><b>特效</b><br><br></td>
+</thead>
+<tr>
+<td>Realistic Starter VFX Pack Vol 2</td>
+<td>特效</td>
 </tr>
 <tr>
-<td>熔岩之地合集</td>
-<td>场景</td>
-</tr>
-<tr>
-<td>干枯草地合集</td>
-<td>场景</td>
-</tr>
-<tr>
-<td>采石场合集</td>
-<td>场景</td>
-</tr>
-<tr>
-<td>Landscape Backgrounds</td>
-<td>场景</td>
-</tr>
-<tr>
-<td>Dynamic Grass System Lite</td>
-<td>草地</td>
-</tr>
-<tr>
-<td>Megascans - Forest Path</td>
-<td>场景</td>
-</tr>
-<tr>
-<td>Vehicle Variety Pack</td>
-<td>机动车</td>
-</tr>
-<tr>
-<td>FPS Weapon Bundle</td>
-<td>武器</td>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/0-1920x1080-291659d7c1904fa6a0c3980fbc0eb271.jpg?resize=1&w=1920">
+</td>
 </tr>
 <tr>
 <td>M5 VFX Vol2. Fire and Flames</td>
 <td>特效</td>
 </tr>
 <tr>
-<td>Water Materials</td>
-<td>水材质</td>
-</tr>
-<tr>
-<td>Advanced Glass Material Pack</td>
-<td>玻璃材质</td>
-</tr>
-<thead>
-<td colspan="2"><b><br>Low Poly<br><br></b></td>
-</thead>
-<tr>
-<td>虚幻学习包:游戏</td>
-<td>主素材</td>
-</tr>
-<tr>
-<td>FX Variety Pack</td>
-<td>魔法特效</td>
-</tr>
-<tr>
-<td>MCO Mocap Basics</td>
-<td>人物动画</td>
-</tr>
-<tr>
-<td>Free Fantasy Weapon Sample Pack</td>
-<td>武器</td>
-</tr>
-<tr>
-<td>interactive stylized Lowpoly Grass</td>
-<td>可交互草地</td>
-</tr>
-<tr>
-<td>Craft Resources Icons</td>
-<td>UI图标</td>
-</tr>
-<tr>
-<td>Stylized Character Kit: Casual 01</td>
-<td>人物</td>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/s05-1920x1080-f796236e500da36dbee11af460cde80d.jpg?resize=1&w=1920">
+</td>
 </tr>
 <tr>
 <td>Particles and Wind Control System</td>
 <td>天气粒子</td>
 </tr>
 <tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/Forest%20Trees%20Plants%20and%20Grass%20Part%203_screenshot_01-1920x1080-097b062aaa25c5d2521c753a4f782630.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
 <td>Niagara Footstep VFX</td>
 <td>走路粒子特效</td>
 </tr>
 <tr>
-<td>SuperGrid Starter pack</td>
-<td>方块矩阵场景</td>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/Untitled%20design%2014-1920x1080-44b212136269b6b49ebbd07feea67f52.png?resize=1&w=1920">
+</td>
 </tr>
 <tr>
-<td>Easy Building System v10</td>
-<td>建造类游戏模版</td>
+<td>FX Variety Pack</td>
+<td>魔法特效</td>
 </tr>
 <tr>
-<td>Advanced Puzzle Constructor</td>
-<td>解密类游戏模版</td>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/FXVarietyPackScreenshot1-1920x1080-166d9faa0b2295f3bc31fc5f0075fc29.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Basic Pickups VFX Set (Niagara)</td>
+<td>拾取特效</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-ef734d0ef0539a2da32cc36a795dbd0d.jpg?resize=1&w=1920">
+</td>
+</tr>
+
+
+<thead>
+<td colspan="2"><br><b>次时代 写实</b><br><br></td>
+</thead>
+<tr>
+<td>Landscape Pro 2.0 Auto-Generated Material</td>
+<td>工程</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-5ffc2ef0b2f7ccb5e05e19ddffe2d86c.jpg?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Soul: 洞穴</td>
+<td>场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/SoulCave01-1920x1080-539c0a0852dd62ee1f0c2811f57cb91e.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Soul: 城市</td>
+<td>场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/SoulCity01-1920x1080-caea6111851e633708d255bcc5f2cd02.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>古代山谷 Valley of the Ancient
+</td>
+<td>工程</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/salesEvent/salesEvent/Marketplace_S_01_1920x1080-a16ac51ff11b0b5a1f775dd0e932ed61?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>城市示例</td>
+<td>工程</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/item/ue/01%20-%20City_05_1080p_v1_1920x1080-3cec0289d8c77eccb37aa197e9e7f537?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>熔岩之地合集</td>
+<td>场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/EnvScreenshot03-min-1920x1080-f28ab955931de391d0b3b5ec79be2bfc.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>干枯草地合集</td>
+<td>场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/DryGrassScreenshotN01-min-1920x1080-a437e5cd1dd8384cb64f14a82d0ede46.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>采石场合集</td>
+<td>场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/QuarryScreenshot04-min-1920x1080-67725c1efc9416e6011b676d20e13b14.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Landscape Backgrounds</td>
+<td>场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/item/Store_Landscape_Backgrounds_screenshot_1-1920x1080-d3de5489765f43e0769580c72289cf79.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Dynamic Grass System Lite</td>
+<td>草地</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/DGSLiteSS1JPG-1920x1080-86961515dfea0245953859ce404dfe93.jpg?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Megascans - Forest Path</td>
+<td>场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00007-1920x1080-2cdd6758dc16e95c49aa0167a597c9e0.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Vehicle Variety Pack</td>
+<td>机动车</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/AllPromotional-1920x1080-7ba97ea71f37283a3129d3b53ebcbcd3.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Vehicle Variety Pack Volume 2
+</td>
+<td>机动车</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/Promo0011HighresScreenshot00005-1920x1080-1426e49c5a1831d1f8ae5b1f61329612.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>FPS Weapon Bundle</td>
+<td>武器</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/FPSWeaponBundlescreenshot01-1920x1080-6dd2a72080d963bc2a2e2eae4fdf31ee.png?resize=1&w=1920">
+</td>
+</tr>
+<thead>
+<td colspan="2"><b><br>Low Poly<br><br></b></td>
+</thead>
+<tr>
+<td>虚幻学习工具包:游戏</td>
+<td>主素材</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/FXVarietyPackScreenshot1-1920x1080-166d9faa0b2295f3bc31fc5f0075fc29.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Free Fantasy Weapon Sample Pack</td>
+<td>武器</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/FXVarietyPackScreenshot1-1920x1080-166d9faa0b2295f3bc31fc5f0075fc29.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>interactive stylized Lowpoly Grass</td>
+<td>可交互草地</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/FXVarietyPackScreenshot1-1920x1080-166d9faa0b2295f3bc31fc5f0075fc29.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Craft Resources Icons</td>
+<td>UI图标</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/FXVarietyPackScreenshot1-1920x1080-166d9faa0b2295f3bc31fc5f0075fc29.png?resize=1&w=1920">
+</td>
 </tr>
 </table>
 
+
 - [使用Quixel Bridge]
   
-- [Epic Games示例内容](http://www.bilibili.com/video/BV1Za4y1s7ti?p=18)
+- [其他学习资源]
 
 <table>
 <thead>
@@ -178,7 +391,7 @@
 <td>说明</td>
 </thead>
 <tr>
-<td colspan="2"><b>游戏类</b></td>
+<td colspan="2"><br><b>游戏类</b><br><br></td>
 </tr>
 <tr>
 <td>内容示例</td>
@@ -221,7 +434,8 @@
 <td></td>
 </tr>
 <tr>
-<td>开放世界内容包</td>
+<td>Open World Demo Collection
+ 开放世界内容包</td>
 <td></td>
 </tr>
 <tr>
@@ -229,7 +443,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="2"><b>影视类</b></td>
+<td colspan="2"><br><b>影视类</b><br><br></td>
 </tr>
 <tr>
 <td>摄像机内视效制片测试</td>
@@ -244,7 +458,7 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="2"><b>动画类</b></td>
+<td colspan="2"><br><b>动画类</b><br><br></td>
 </tr>
 <tr>
 <td>Meerkat演示</td>
@@ -255,14 +469,14 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="2"><b>人物建模类</b></td>
+<td colspan="2"><br><b>人物建模类</b><br><br></td>
 </tr>
 <tr>
 <td>MetaHumans</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2"><b>广告类</b></td>
+<td colspan="2"><br><b>广告类</b><br><br></td>
 </tr>
 <tr>
 <td>虚幻与未来：广告职涯</td>
@@ -277,21 +491,15 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="2"><b>HMI</b></td>
+<td colspan="2"><br><b>HMI人机交互</b><br><br></td>
 </tr>
 <tr>
 <td>远程控制网页界面</td>
 <td></td>
 </tr>
-</table>
-
- - [素材]
-
-<table>
-<thead>
-<td>名称</td>
-<td>说明</td>
-</thead>
+<tr>
+<td colspan="2"><br><b>素材</b><br><br></td>
+</tr>
 <tr>
 <td>Soul: Cave</td>
 <td></td>
