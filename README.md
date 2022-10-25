@@ -58,7 +58,7 @@
 
 <table>
 <thead>
-<td colspan="2"><h4>风格:Stylized</h4></td>
+<td colspan="2"><h4 style="font-size:24px">风格:Stylized</h4></td>
 </thead>
 <tr>
 <td>Stack O Bot</td>
@@ -111,7 +111,7 @@
 
 <table>
 <thead>
-<td colspan="2"><h4>动画</h4></td>
+<td colspan="2"><h4 style="font-size:24px">动画</h4></td>
 </thead>
 <tr>
 <td>动画初学者内容包</td>
@@ -119,7 +119,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<img src="images/%E5%8A%A8%E7%94%BB%E5%88%9D%E5%AD%A6%E8%80%85%E5%86%85%E5%AE%B9%E5%8C%85.png">
+<img src="images/%E5%8A%A8%E7%94%BB%E5%88%9D%E5%AD%A6%E8%80%85%E5%86%85%E5%AE%B9%E5%8C%85.png" />
 </td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@
 
 <table>
 <thead>
-<td colspan="2"><h4>材质</h4></td>
+<td colspan="2"><h4 style="font-size:24px">材质</h4></td>
 </thead>
 <tr>
 <td>Water Materials</td>
@@ -168,7 +168,7 @@
 
 <table>
 <thead>
-<td colspan="2"><h4>特效</h4></td>
+<td colspan="2"><h4 style="font-size:24px">特效</h4></td>
 </thead>
 <tr>
 <td>Realistic Starter VFX Pack Vol 2</td>
@@ -228,7 +228,7 @@
 
 <table>
 <thead>
-<td colspan="2"><h4>音效</h4></td>
+<td colspan="2"><h4 style="font-size:24px">音效</h4></td>
 </thead>
 <tr>
 <td>Interface & Item Sounds Pack
@@ -254,7 +254,7 @@
 
 <table>
 <thead>
-<td colspan="2"><h4>风格:次时代/写实</h4></td>
+<td colspan="2"><h4 style="font-size:24px">风格:次时代/写实</h4></td>
 </thead>
 <tr>
 <td>Rural Australia
@@ -627,7 +627,7 @@
 
 <table>
 <thead>
-<td colspan="2"><h4>风格:Low Poly</h4></td>
+<td colspan="2"><h4 style="font-size:24px">风格:Low Poly</h4></td>
 </thead>
 <tr>
 <td>虚幻学习工具包</td>
@@ -699,7 +699,7 @@
 
 <table>
 <thead>
-<td colspan="2"><h4>学习资源</h4></td>
+<td colspan="2"><h4 style="font-size:24px">学习资源</h4></td>
 </thead>
 <tr>
 <td>内容示例</td>
