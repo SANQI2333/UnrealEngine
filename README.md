@@ -799,6 +799,11 @@
 
 - [使用Quixel Bridge]
 
+![](images/Bridge1.jpg)
+![](images/Bridge2.jpg)
+![](images/Bridge3.jpg)
+![](images/Bridge4.png)
+
 - [如何使用资源](https://www.bilibili.com/video/BV1Za4y1s7ti?p=20)
 
 ### 初涉地形
