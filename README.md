@@ -54,7 +54,7 @@
 <br>
 <table>
 <thead>
-<td colspan="2"><h3>/// 风格 Stylized</h3></td>
+<td colspan="2"><h4>/// 风格 Stylized</h4></td>
 </thead>
 <tr>
 <td>Stack O Bot</td>
