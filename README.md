@@ -55,7 +55,7 @@
 
 <table>
 <thead>
-<td colspan="2"><h4>风格: Stylized 风格化</h4></td>
+<td colspan="2"><h4>风格:Stylized</h4></td>
 </thead>
 <tr>
 <td>Stack O Bot</td>
@@ -249,7 +249,7 @@
 
 <table>
 <thead>
-<td colspan="2"><h4>风格: 次时代/写实</h4></td>
+<td colspan="2"><h4>风格:次时代/写实</h4></td>
 </thead>
 <tr>
 <td>Rural Australia
@@ -541,7 +541,7 @@
 
 <table>
 <thead>
-<td colspan="2"><h4>风格: Low Poly</h4></td>
+<td colspan="2"><h4>风格:Low Poly</h4></td>
 </thead>
 <tr>
 <td>虚幻学习工具包</td>
