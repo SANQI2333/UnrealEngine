@@ -794,12 +794,31 @@
 </tr>
 </table>
 
-#### Quixel Bridge资源
-
-![](images/Bridge1.jpg)
-![](images/Bridge2.jpg)
-![](images/Bridge3.jpg)
-![](images/Bridge4.png)
+<table>
+    <thead>
+        <td><h4 style="font-size:24px">Quixel Bridge资源</h4></td>
+    </thead>
+    <tr>
+        <td>
+        <img src="images/Bridge1.jpg" />
+        </td>
+    </tr>
+        <tr>
+        <td>
+        <img src="images/Bridge2.jpg" />
+        </td>
+    </tr>
+        <tr>
+        <td>
+        <img src="images/Bridge3.jpg" />
+        </td>
+    </tr>
+        <tr>
+        <td>
+        <img src="images/Bridge4.png" />
+        </td>
+    </tr>
+</table>
 
 <br>
 <br>
