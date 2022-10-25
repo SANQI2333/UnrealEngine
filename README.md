@@ -54,7 +54,7 @@
 <br>
 <table>
 <thead>
-<td colspan="2" style="padding:15px;font-size:16px; background-color:#666"><b>风格 Stylized </b></td>
+<td colspan="2" style="padding:15px;font-size:16px; background-color:#666"><b>/// 风格 Stylized </b></td>
 </thead>
 <tr>
 <td>Stack O Bot</td>
@@ -103,7 +103,7 @@
 </tr>
 
 <thead>
-<td colspan="2" style="padding:15px;font-size:16px; background-color:#333"><b>动画</b></td>
+<td colspan="2" style="padding:15px;font-size:16px; background-color:#333"><b>/// 动画</b></td>
 </thead>
 <tr>
 <td>动画初学者内容包</td>
@@ -125,7 +125,7 @@
 </td>
 </tr>
 <thead>
-<td colspan="2" style="padding:15px;font-size:16px; background-color:#333"><b>材质</b></td>
+<td colspan="2" style="padding:15px;font-size:16px; background-color:#333"><b>/// 材质</b></td>
 </thead>
 <tr>
 <td>Water Materials</td>
@@ -155,7 +155,7 @@
 </td>
 </tr>
 <thead>
-<td colspan="2" style="padding:15px;font-size:16px; background-color:#333"><b>特效</b></td>
+<td colspan="2" style="padding:15px;font-size:16px; background-color:#333"><b>/// 特效</b></td>
 </thead>
 <tr>
 <td>Realistic Starter VFX Pack Vol 2</td>
@@ -212,7 +212,7 @@
 </td>
 </tr>
 <thead>
-<td colspan="2" style="padding:15px;font-size:16px; background-color:#333"><b>音效</b></td>
+<td colspan="2" style="padding:15px;font-size:16px; background-color:#333"><b>/// 音效</b></td>
 </thead>
 <tr>
 <td>Interface & Item Sounds Pack
@@ -236,7 +236,7 @@
 </tr>
 
 <thead>
-<td colspan="2" style="padding:15px;font-size:16px; background-color:#333"><b>美术风格：次时代 写实</b></td>
+<td colspan="2" style="padding:15px;font-size:16px; background-color:#333"><b>/// 风格 次时代 写实</b></td>
 </thead>
 
 <tr>
@@ -558,7 +558,7 @@
 </tr>
 
 <thead>
-<td colspan="2" style="padding:15px;font-size:16px; background-color:#333"><b>美术风格：Low Poly</b></td>
+<td colspan="2" style="padding:15px;font-size:16px; background-color:#333"><b>/// 风格 Low Poly</b></td>
 </thead>
 <tr>
 <td>虚幻学习工具包</td>
