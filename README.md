@@ -15,6 +15,7 @@
 - [添加体积光]
 - [添加体积云]
 - [添加天光]
+- [添加后期处理体积]
 
 ### 基本操作
 - [游览](https://www.bilibili.com/video/BV1Za4y1s7ti?p=3)
@@ -835,6 +836,27 @@
 
 ### 创建玩家
 
+- [目录结构说明](https://www.bilibili.com/video/BV1Za4y1s7ti?p=10)
+    - _项目名
+        - Blueprints 蓝图
+        - Maps 地图
+        - Materials 材质
+        - Meshes 网格体
+        - Textures 纹理
+        - FX 粒子与特效
+        - Audio 音频
+        - Cinematics 过场动画
+        - UI 用户界面
+        - Characters 角色
+            - 角色名
+                - Animations 动画
+                - Meshes
+                - Textures
+                - Materials
+        - Assets 资产
+            - 资产名
+                - Materials
+                - Textures
 - [创建游戏模式]
 - [修改游戏模式](https://www.bilibili.com/video/BV1Za4y1s7ti?p=21)
 - [修改玩家视角的摄像机](http://www.bilibili.com/video/BV1Za4y1s7ti?p=22)
@@ -842,6 +864,8 @@
 - [角色移动属性 - 行走速度与行走地面角度](http://www.bilibili.com/video/BV1Za4y1s7ti?p=23)
 - [角色移动属性 - 跳跃](https://www.bilibili.com/video/BV1Za4y1s7ti?p=24)
 - [角色移动属性 - 重力](https://www.bilibili.com/video/BV1Za4y1s7ti?p=25)
+- [为角色添加一个手电筒](https://www.bilibili.com/video/BV1Za4y1s7ti?p=26)
+- [添加用户输入 - 开关手电筒]
 
 
 ### 导入模型
@@ -851,31 +875,6 @@
 - [给静态网格体添加碰撞](https://www.bilibili.com/video/BV1Za4y1s7ti?p=29)
 - 了解LOD
 - 设置LOD
-
-### 为代码准备
-- [目录结构说明](https://www.bilibili.com/video/BV1Za4y1s7ti?p=10)
-    - _项目名
-        - Blueprints 蓝图
-        - Maps 地图
-        - Materials 材质
-        - Meshes 网格体
-        - Textures 纹理
-        - FXs 粒子与特效
-        - Audio 音频
-        - Cinematics 过场动画
-        - Characters 角色
-            - 角色名
-                - Animations 动画
-                - Meshes
-                - Textures
-                - Materials
-        - Props 资产
-            - 资产名
-                - Materials
-                - Textures
-
-- [为角色添加一个手电筒](https://www.bilibili.com/video/BV1Za4y1s7ti?p=26)
-- [添加用户输入 - 开关手电筒]
 
 
 ### 后期处理
@@ -891,9 +890,21 @@
 ## 初涉声音
 
 - [导入音频](http://www.bilibili.com/video/BV1Za4y1s7ti?p=41)
+- [剪切音频]
+- [动态处理]
+- [EQ]
+- [混响]
+- [合成器]
 - [BGM / 循环播放](http://www.bilibili.com/video/BV1Za4y1s7ti?p=42)
 - [MP3转WAV](http://www.bilibili.com/video/BV1Za4y1s7ti?p=43)
 - [给火加一个音效](http://www.bilibili.com/video/BV1Za4y1s7ti?p=44)
+- [空间化声音]
+- [衰减 - 距离]
+- [衰减 - 空气吸收 滤波 LPF]
+- [衰减 - 空间形状]
+- [混响 Reverb]
+- [Sound Cue 对声音进行蓝图]
+- [Sound Cue 制作多普勒音效]
 
 ## 初涉材质
 
