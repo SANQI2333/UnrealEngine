@@ -883,9 +883,11 @@
 - [后期处理体积 镜头特效](http://www.bilibili.com/video/BV1Za4y1s7ti?p=38)
 - [后期处理体积 调色](http://www.bilibili.com/video/BV1Za4y1s7ti?p=39)
 
+
 ## 初涉粒子
 
 - [添加一些漂浮的闪光粒子](http://www.bilibili.com/video/BV1Za4y1s7ti?p=40)
+
 
 ## 初涉声音
 
@@ -906,6 +908,7 @@
 - [Sound Cue 对声音进行蓝图]
 - [Sound Cue 制作多普勒音效]
 
+
 ## 初涉材质
 
 - [基础颜色](http://www.bilibili.com/video/BV1Za4y1s7ti?p=45)
@@ -920,7 +923,9 @@
 - [贴花材质 - 制作法线贴图](http://www.bilibili.com/video/BV1Za4y1s7ti?p=54)
 - [贴花材质 - 完成贴花](http://www.bilibili.com/video/BV1Za4y1s7ti?p=55)
 
-#### [P.S 其他材质课程](http://)
+#### [P.S 其他材质课程](https://www.bilibili.com/video/BV19t4y1e7Dw/?spm_id_from=333.999.0.0)
+
+
 
 ## 初涉过场动画
 
