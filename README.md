@@ -884,12 +884,12 @@
 - [后期处理体积 调色](http://www.bilibili.com/video/BV1Za4y1s7ti?p=39)
 
 
-## 初涉粒子
+### 初涉粒子
 
 - [添加一些漂浮的闪光粒子](http://www.bilibili.com/video/BV1Za4y1s7ti?p=40)
 
 
-## 初涉声音
+### 初涉声音
 
 - [导入音频](http://www.bilibili.com/video/BV1Za4y1s7ti?p=41)
 - [剪切音频]
@@ -909,7 +909,7 @@
 - [Sound Cue 制作多普勒音效]
 
 
-## 初涉材质
+### 初涉材质
 
 - [基础颜色](http://www.bilibili.com/video/BV1Za4y1s7ti?p=45)
 - [混合模式与双面](http://www.bilibili.com/video/BV1Za4y1s7ti?p=46)
@@ -927,7 +927,7 @@
 
 
 
-## 初涉过场动画
+### 初涉过场动画
 
 - [创建一个镜头动画](http://www.bilibili.com/video/BV1Za4y1s7ti?p=56)
     - 做动画前将视窗调节至双视图, 左透视，右序列器
@@ -943,13 +943,13 @@
 - [音频轨道](http://www.bilibili.com/video/BV1Za4y1s7ti?p=65)
 - [导出动画](http://www.bilibili.com/video/BV1Za4y1s7ti?p=66)
 
-## 作业：地图编辑
+### 作业：地图编辑
 
 - 地编实例：创造一个戈壁
 - 地编实例：创造一个森林
 - 地编实例：创造一个沙滩
 
-## 角色入门
+# 角色入门
 
 - [替换角色骨骼网格体](http://www.bilibili.com/video/BV1Za4y1s7ti?p=67)
 - [重定向动画蓝图](http://www.bilibili.com/video/BV1Za4y1s7ti?p=68)
