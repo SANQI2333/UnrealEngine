@@ -537,6 +537,87 @@
 <img src="https://cdn1.epicgames.com/ue/product/Screenshot/ReleaseImage00-1920x1080-4c37f1dedc09db581cde98e253f551a7.jpg?resize=1&w=1920">
 </td>
 </tr>
+<tr>
+<td>Megascans Abandoned Apartment 废弃的公寓</td>
+<td>场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00177-1920x1080-3a6ee9c499dd48724db5c5a4f76675fb.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Megascans Goddess Temple 神庙</td>
+<td>场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/RomanCaveStill7Main2-1920x1080-c62113a9a79f2a205abd49608d8e7e79.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Megascans - Cyberpunk Environment</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/CyberpunkEnv-1920x1080-4eb88fcfc2da360d0ff64a64007af288.jpg?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Megascans - Post-Apocalyptic Street</td>
+<td>废墟场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/PostApocalypticStreet%201-1920x1080-2ad94b6be62f7370f5e14cb440d70e41.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Megascans Desert Warzone</td>
+<td>废墟场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00005%201-1920x1080-8012f1f67f831a2ba5d1d3352f4c49c2.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Megascans Scary Restroom 恐怖卫生间</td>
+<td>废墟场景</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/ScaryRestroom-1920x1080-7c8d0fb4afa10c586e479c06f8fb46b5.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Megascans Creature Gut 生物内脏</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/11-18-2019%2010-01-55%20AM-1920x1080-ee812e665586b1f4aa5e863236e64638.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Megascans Creature Skin 生物皮肤</td>
+<td>材质</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00004-1920x1080-8b89b297e7defcda278c270fddf7545c.png?resize=1&w=1920">
+</td>
+</tr>
+<tr>
+<td>Brushify</td>
+<td>收费素材</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/product/Screenshot/Arctic011080p-1920x1080-acd2e72e4a54d823a7b699ede9f93f1c.jpg?resize=1&w=1920">
+</td>
+</tr>
 </table>
 
 <table>
@@ -611,38 +692,27 @@
 </tr>
 </table>
 
-
-- [使用Quixel Bridge]
-  
-- [其他学习资源]
-
 <table>
-<tr>
-<td colspan="2"><b>游戏类</b></td>
-</tr>
+<thead>
+<td colspan="2"><h4>学习资源</h4></td>
+</thead>
 <tr>
 <td>内容示例</td>
-<td></td>
+<td>教程</td>
 </tr>
 <tr>
-<td>城市示例</td>
-<td></td>
-</tr>
-<tr>
-<td>古代山谷</td>
-<td></td>
-</tr>
-<tr>
-<td>Stack O Bot</td>
-<td></td>
-</tr>
-<tr>
-<td>虚幻学习工具包</td>
-<td></td>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/item/ue/CE_06_1920x1080-9fa7769db872b884c4a4d72d92e60540?resize=1&w=1920">
+</td>
 </tr>
 <tr>
 <td>Chaos 破坏演示</td>
-<td></td>
+<td>教程</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://cdn1.epicgames.com/ue/item/FieldsScreenshot_01-1920x1082-f6d6904af74a970f2a46542431ac6ad2.png?resize=1&w=1920">
+</td>
 </tr>
 <tr>
 <td>动作RPG</td>
@@ -657,10 +727,6 @@
 <td></td>
 </tr>
 <tr>
-<td>动画初学者内容包</td>
-<td></td>
-</tr>
-<tr>
 <td>Open World Demo Collection
  开放世界内容包</td>
 <td></td>
@@ -670,70 +736,44 @@
 <td></td>
 </tr>
 <tr>
-<td colspan="2"><b>影视类</b></td>
-</tr>
-<tr>
 <td>摄像机内视效制片测试</td>
-<td></td>
+<td>影视</td>
 </tr>
 <tr>
 <td>虚拟摄影棚</td>
-<td></td>
+<td>影视</td>
 </tr>
 <tr>
 <td>虚拟摄像机</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"><b>动画类</b></td>
+<td>影视</td>
 </tr>
 <tr>
 <td>Meerkat演示</td>
-<td></td>
+<td>动画</td>
 </tr>
 <tr>
 <td>摄像机内视效制片测试</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"><b>人物建模类</b></td>
+<td>动画</td>
 </tr>
 <tr>
 <td>MetaHumans</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"><b>广告类</b></td>
+<td>人物建模</td>
 </tr>
 <tr>
 <td>虚幻与未来：广告职涯</td>
-<td></td>
+<td>广告</td>
 </tr>
 <tr>
 <td>汽车配置器</td>
-<td></td>
+<td>汽车</td>
 </tr>
 <tr>
 <td>汽车冬季场景</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"><b>HMI人机交互</b></td>
+<td>汽车</td>
 </tr>
 <tr>
 <td>远程控制网页界面</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2"><b>素材</b></td>
-</tr>
-<tr>
-<td>Soul: Cave</td>
-<td></td>
-</tr>
-<tr>
-<td>Soul: City</td>
-<td></td>
+<td>HMI</td>
 </tr>
 <tr>
 <td>temperate Vegetation: Foliage Collection</td>
@@ -747,63 +787,10 @@
 <td>Megascans Meadow Pack 草甸合集</td>
 <td></td>
 </tr>
-<tr>
-<td>熔岩之地合集 / 干枯草地合集 / 采石场合集</td>
-<td></td>
-</tr>
-<tr>
-<td>Megascans Abandoned Apartment 废弃的公寓</td>
-<td></td>
-</tr>
-<tr>
-<td>Megascans Goddess Temple 神庙</td>
-<td></td>
-</tr>
-<tr>
-<td>Megascans Urban Alleyway</td>
-<td></td>
-</tr>
-<tr>
-<td>Megascans Fantasy Fort</td>
-<td></td>
-</tr>
-<tr>
-<td>Megascans Cyberpunk Environment</td>
-<td></td>
-</tr>
-<tr>
-<td>Megascans Post-Apocalyptic Street</td>
-<td></td>
-</tr>
-<tr>
-<td>Megascans Desert Warzone</td>
-<td></td>
-</tr>
-<tr>
-<td>Megascans Scary Restroom 恐怖卫生间</td>
-<td></td>
-</tr>
-<tr>
-<td>Megascans Creature Gut 生物内脏</td>
-<td></td>
-</tr>
-<tr>
-<td>Megascans Creature Skin 生物皮肤</td>
-<td></td>
-</tr>
-<tr>
-<td>Megascans 各类材质</td>
-<td></td>
-</tr>
-<tr>
-<td>Brushify</td>
-<td></td>
-</tr>
-<tr>
-<td>Lake House</td>
-<td></td>
-</tr>
-</table>
+
+
+
+- [使用Quixel Bridge]
 
 - [如何使用资源](https://www.bilibili.com/video/BV1Za4y1s7ti?p=20)
 
