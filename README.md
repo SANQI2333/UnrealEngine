@@ -66,7 +66,7 @@
 </tr>
 <tr>
 <td colspan="2">
-![](images/Stack%20O%20Bot.png)
+<img src="images/Stack%20O%20Bot.png" />
 </td>
 </tr>
 <tr>
