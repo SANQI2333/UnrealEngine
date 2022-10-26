@@ -961,6 +961,7 @@
 - [不同机位剪辑](http://www.bilibili.com/video/BV1Za4y1s7ti?p=57)
 - [其他元素动画](http://www.bilibili.com/video/BV1Za4y1s7ti?p=58)
 - [灯光动画](http://www.bilibili.com/video/BV1Za4y1s7ti?p=59)
+- [摄像机晃动]
 - [自动播放动画](http://www.bilibili.com/video/BV1Za4y1s7ti?p=60)
 - [序列录制器](http://www.bilibili.com/video/BV1Za4y1s7ti?p=61)
 - [添加角色动画](http://www.bilibili.com/video/BV1Za4y1s7ti?p=62)
