@@ -863,6 +863,7 @@
             - 资产名
                 - Materials
                 - Textures
+- [创建玩家角色]
 - [创建游戏模式]
 - [修改游戏模式](https://www.bilibili.com/video/BV1Za4y1s7ti?p=21)
 - [修改玩家视角的摄像机](http://www.bilibili.com/video/BV1Za4y1s7ti?p=22)
