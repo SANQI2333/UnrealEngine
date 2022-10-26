@@ -39,9 +39,11 @@
 
 ### 完善世界
 - [使用初学者内容包](https://www.bilibili.com/video/BV1Za4y1s7ti?p=9)
+- [放置静态网格体]
+- [设置材质]
 - [放置各种光源](https://www.bilibili.com/video/BV1Za4y1s7ti?p=11)
 - [打开物理引擎](https://www.bilibili.com/video/BV1Za4y1s7ti?p=13)
-- [创建第一个Actor蓝图](https://www.bilibili.com/video/BV1Za4y1s7ti?p=14)
+- [创建第一个 Actor 蓝图](https://www.bilibili.com/video/BV1Za4y1s7ti?p=14)
     - 添加 文本组件 Text Component
     - 添加 盒体碰撞器 Box Collision
 - [编写第一段蓝图代码](https://www.bilibili.com/video/BV1Za4y1s7ti?p=15)
@@ -891,6 +893,8 @@
 ### 初涉粒子
 
 - [添加一些漂浮的闪光粒子](http://www.bilibili.com/video/BV1Za4y1s7ti?p=40)
+- [卡通烟雾]
+- [卡通火焰]
 
 
 ### 初涉声音
@@ -913,7 +917,26 @@
 - [Sound Cue 制作多普勒音效]
 
 
-### 初涉材质
+### 初涉建模 (Optional)
+ - [打开UE建模工具]
+ - [标准体]
+ - [多边形挤压]
+ - [路径挤压]
+ - [编辑多边形]
+ - [编辑三角形]
+ - [造型]
+ - [雕刻]
+ - [编辑枢轴点]
+ - [优化 减面]
+ - [优化 重构]
+ - [体素]
+ - [自动UV]
+ - [UV解包]
+ - [UV缝合]
+ - [UV变换]
+ - [UV布局]
+
+### 初涉材质 (Optional)
 
 - [基础颜色](http://www.bilibili.com/video/BV1Za4y1s7ti?p=45)
 - [混合模式与双面](http://www.bilibili.com/video/BV1Za4y1s7ti?p=46)
@@ -928,8 +951,6 @@
 - [贴花材质 - 完成贴花](http://www.bilibili.com/video/BV1Za4y1s7ti?p=55)
 
 #### [P.S 其他材质课程](https://www.bilibili.com/video/BV19t4y1e7Dw/?spm_id_from=333.999.0.0)
-
-
 
 ### 初涉过场动画
 
